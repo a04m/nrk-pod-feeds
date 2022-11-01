@@ -1,0 +1,1494 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 151 siste fra I det lange løp</title>
+    <link>https://a04m.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 151 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 01 Nov 2022 23:07:52 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2022 06:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw"/>
+    <item>
+      <title>Verdens enkleste idrett</title>
+      <description><![CDATA[Både OL-vinner Vebjørn Rodal og maratonmester Sondre Norstad Moen droppet pulsklokke og laktatmåling. Hvorfor det? Hva var hemmeligheten som likevel gjorde løperne så vanvittig gode?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/i_det_lange_loep_2019-11-22_0200_4068.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/i_det_lange_loep_2019-11-22_0200_4068.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:44</itunes:duration>
+      <pubDate>Fri, 22 Nov 2019 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kosthold</title>
+      <description><![CDATA[Hva bør vi spise for å prestere på vårt beste på trening og i konkurranse? Og hvor viktig er egentlig vekt i løping? Norgesrekordholder og ernæringsfysiolog Ingvill Måkestad Bovim gir av sin kunnskap og erfaring.
+Kristian spår kanontid på Sondre Nordstad Moen etter fem uker på samling med Norges maratonhåp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/i_det_lange_loep_2019-11-29_0200_2129.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/i_det_lange_loep_2019-11-29_0200_2129.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:20:28</itunes:duration>
+      <pubDate>Fri, 29 Nov 2019 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Norges maratonkonge</title>
+      <description><![CDATA[Sondre Nordstad Moen forteller alt om da han løp Valencia Marathon på 2.06.17 forrige helg. Det er fire minutter fortere enn noen annen nordmann har løpt på distansen. Vi passer også på å få lokket ut noen treningstips til de som vil prøve seg på maraton. Og passer nøkkelen til Kristian fortsatt etter 5 uker på samling med Sondre?
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/i_det_lange_loep_2019-12-06_0200_1348.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/i_det_lange_loep_2019-12-06_0200_1348.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:28</itunes:duration>
+      <pubDate>Fri, 06 Dec 2019 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Didrik Tønseth</title>
+      <description><![CDATA[Langrennsløper Didrik Tønseth imponerte med å følge i hælene på Filip Ingebrigtsen i EM-terrengløp. Men hvor mye løper han egentlig? Og hvor mye løping blir det i fremtiden? For de som kombinerer langrenn og løping blir det flere tips å få.
+Kristian svarer på lytterspørsmål og vurderer å dra to måneder til Kenya.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/i_det_lange_loep_2019-12-13_0200_3597.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/i_det_lange_loep_2019-12-13_0200_3597.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:18:26</itunes:duration>
+      <pubDate>Fri, 13 Dec 2019 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fra mosjon til toppidrett</title>
+      <description><![CDATA[Kristian har bestemt seg for å la jobb være jobb, og har bestilt seg en tur på 7 uker til Kenya. Komiker Nils Ingar Aadne sa fra seg all jobb i ett år for å satse på ski. Han gir Kristian råd på veien inn i toppidrettslivet. Hvilke feller bør han unngå? Og hvor stor forskjell er det på livet til en overivrig supermosjonist og en toppidrettsutøver?
+Kristian får også en hilsen fra selveste Petter Northug. Og Jann har diktet en julesang til Kristian så han skal få litt julestemning før avreise til Kenya.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/i_det_lange_loep_2019-12-20_0200_1859.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/i_det_lange_loep_2019-12-20_0200_1859.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:52</itunes:duration>
+      <pubDate>Fri, 20 Dec 2019 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Reisespesial</title>
+      <description><![CDATA[Truls Oma Erichsrud har gjort sport av å løpe maraton på de merkeligste steder. Hør han fortelle hvordan det var å løpe maraton i Nord-Korea, Irak, Jamaica og Sibir. Eventyreren jakter store opplevelser og ikke tider. Med et unntak. Det brakte han til Kenya på treningsleir. Leter du etter en eksotisk løpsopplevelse så risikerer du å bli inspirert.
+Kristian har pakket bagen til Kenya og røper hvilke løp han sikter på i 2020. Jann er klar for Tour de ski og har også lagt noen maratonplaner.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/i_det_lange_loep_2019-12-27_0200_1063.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/i_det_lange_loep_2019-12-27_0200_1063.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:32</itunes:duration>
+      <pubDate>Fri, 27 Dec 2019 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ungdomskilden</title>
+      <description><![CDATA[Anders Aukland presterer på imponerende nivå selv i en alder av 47 år. Hvordan er det mulig? Her forteller han selv hvordan han har endret måten han har trent på opp gjennom årene for å holde seg i toppen. Få har drevet toppidrett i så mange år og tenkt så mye på trening. Trener han bare smart eller har han funnet ungdomskilden?
+Kristian har ankommet Kenya og svarer på spørsmål fra lytterne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/i_det_lange_loep_2020-01-03_0200_3710.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/i_det_lange_loep_2020-01-03_0200_3710.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:17</itunes:duration>
+      <pubDate>Fri, 03 Jan 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Tredemølle </title>
+      <description><![CDATA[Med norsk klima er det vanskelig å være løper uten å måtte ta i bruk en tredemølle på enkelte økter. Tidligere toppløper Sindre Buraas har flere mil på tredemølle enn de fleste og gir gode råd og forslag til økter i samtale med Jann Post og Kristian Ulriksen. Karoline Bjerkeli Grøvdal, Hedda Hynne, Tom Erling Kårbø og Sondre Nordstad Moen forteller hvordan de bruker mølla i sin toppsatsing mot OL til sommeren.
+Kristian Ulriksen rapporterer fra Kenya hvor han både har løpt seg bort og sett det enorme nivået på et lokalt terrengløp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/38b09f60-83ae-40d3-a672-53c4f539437d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/38b09f60-83ae-40d3-a672-53c4f539437d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12:50</itunes:duration>
+      <pubDate>Fri, 10 Jan 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Artist og maratonløper</title>
+      <description><![CDATA[Artisten Sondre Lerche merket at formen var så dårlig at det påvirket hans show under Spellemannprisen. Det fikk han til å lure på hva Beyoncé og Mick Jagger gjorde for å klare sine konserter. 2 år senere var Lerche maratonløper mot alle odds. Nå har han løpt maraton på 3.02. Hva skjedde? Og ble han en bedre artist? Lerche forteller hva som ligger bak forvandlingen.
+Kristian forteller fra sitt opphold i Kenya, hvor Mo Farah har dukket opp. Filmavisen dukker også noe uventet opp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/095a7112-b8af-4b16-bfa8-3880ec17fb15_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/095a7112-b8af-4b16-bfa8-3880ec17fb15_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:25:58</itunes:duration>
+      <pubDate>Fri, 17 Jan 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ingrid Kristiansen</title>
+      <description><![CDATA[Hun ble verdensmester, satte verdensrekorder og vant storbymaraton etter storbymaraton. Men hvordan trente egentlig Ingrid Kristiansen? Den tidligere storløperen gjester studio og forteller om høydepunkter, treningen sin og gir tips og råd.
+Kristian opplever stadig nye ting i Kenya. Han forteller om en frokost med Mo Farah og er en av de første som har fått prøve skoen Kipchoge løp under 2 timer med. Bør de forbys? Og selvsagt har han fått besøk av en ny utenriksreporter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/0e606315-eca0-4e71-bd5c-279e3b4403de_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/0e606315-eca0-4e71-bd5c-279e3b4403de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:46:02</itunes:duration>
+      <pubDate>Fri, 24 Jan 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fra håndball til ultra</title>
+      <description><![CDATA[Didrik Hermansen spilte håndball på høyeste nivå i Sverige og Norge. Men da han skjønte at han ikke kom til å nå opp til landslagsnivå skiftet han idrett. Noen år senere var han plutselig en ultraløper på høyt internasjonalt nivå. Hvordan går man fra å løpe rundt på en håndballbane på 40x20 m til å løpe konkurranser på 160 km i fjellterreng?
+Kristian har bestemt seg for å løpe en konkurranse i Kenya. Vi har fått tak i en forhåndsreportasje.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/c1c7d59c-e58d-4a76-9f59-1d2a6b386e62_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/c1c7d59c-e58d-4a76-9f59-1d2a6b386e62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:17:01</itunes:duration>
+      <pubDate>Fri, 31 Jan 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Skade og sykdom</title>
+      <description><![CDATA[Sigrid Jervell Våg er 9 ganger norsk mester. Nå kjemper hun seg gjennom en skadeperiode. Hva gjør en toppløper når hun ikke kan løpe? Vi dykker ned i Sigrids situasjon og får vite hva hun tenker om alternativ trening. Og hva er viktig når hun kan begynne å løpe igjen?
+Og hva gjør Norges beste løpere når de begynner å kjenne på sykdom? Karoline Bjerkeli Grøvdal, Hedda Hynne, Tom Erling Kårbø og Sondre Nordstad Moen gir oss svar.
+Kristian har blitt dopingtestet i Kenya og kommer med dommen over de nye skoreglene. En gammel kjenning dukker opp som utenriksreporter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/32568b51-ccb7-4fdd-a770-6a857cf4ee33_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/32568b51-ccb7-4fdd-a770-6a857cf4ee33_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:36:38</itunes:duration>
+      <pubDate>Fri, 07 Feb 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Maratontrening for mosjonister</title>
+      <description><![CDATA[Hvor komplisert trenger man å trene for å fullføre sitt første maraton eller forbedre sin personlige rekord på 3.30? Ikke så komplisert, mener Jack Waitz og Sindre Buraas. Sammen med Jann  Post diskuterer de maratontrening for mosjonister i dagen episode.
+Etter 47 dager er det tid for å dra fra Kenya for Kristian. Han drar rett til Barcelona for å løpe halvmaraton på søndag. Men vi rekker en siste utenriksreportasje.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/e7794843-cdb1-4124-9f77-9f80c71ba569_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/e7794843-cdb1-4124-9f77-9f80c71ba569_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:13:52</itunes:duration>
+      <pubDate>Fri, 14 Feb 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Snart 40 år og endelig proff</title>
+      <description><![CDATA[Lars Petter Stormo har gitt seg selv en skikkelig utfordring i 40-årsgave; en profftilværelse som triatlet. Han har gjennomført Ironman på Hawaii raskere enn noen annen nordmann og vunnet Norseman to ganger. Nå satser han på å ta enda et steg.
+Stormo har løpt maraton på 2.48 etter å ha syklet 180 km først. Og det på under 50 km løping per uke. Kanskje kan mosjonister lære noe av hvordan han har fått til det?
+Kristian har kommet hjem fra Kenya og forteller om hvordan det gikk da han løp Barcelona Halvmaraton i helga.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/a34aca74-7e4c-402c-b0a5-e6eb9def58e4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/a34aca74-7e4c-402c-b0a5-e6eb9def58e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:17:24</itunes:duration>
+      <pubDate>Fri, 21 Feb 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Alsgaards formtopping</title>
+      <description><![CDATA[Få har vært så gode når det gjelder som Thomas Alsgaard. 11 VM- og OL-gull sier sitt. Mesterskapene var det eneste han egentlig brydde seg om. Her forteller han hvordan han tenkte og hva han gjorde. Alsgaard var ingen A4-utøver og gjorde ting på sin egen måte. Her bør det være inspirasjon å hente uansett om man løper, går på ski, sykler eller driver annen utholdenhetsidrett.
+Kristian sliter med en skade og Jann er avhengig av et gigantisk skippertak for å komme seg i form til London Marathon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/57388293-d6f3-4196-b410-e20362ffd473_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/57388293-d6f3-4196-b410-e20362ffd473_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:29:55</itunes:duration>
+      <pubDate>Fri, 28 Feb 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bakketrening</title>
+      <description><![CDATA[Trening i motbakke kan være så mangt. Fra motbakkesprinter til de lengste motbakkeløpene. Men veldig mange treningsprogram blant toppløpere rundt i verden har innslag av motbakketrening. Sindre Buraas har erfaring med det meste gir gode råd. I tillegg dukker Karoline Bjerkeli Grøvdal, Hedda Hynne, Tom Erling Kårbø og Sondre Nordstad Moen opp med sine erfaringer.
+Kristian er i ferd med å få orden på helsa og kommer med et uttaksforslag til fremtidige EM. Jann er i startgropen på et skippertak han ikke vet om blir noe av.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/4a40019f-6389-4252-8d17-69b63a56e9d1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/4a40019f-6389-4252-8d17-69b63a56e9d1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:17:49</itunes:duration>
+      <pubDate>Fri, 06 Mar 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Løpefamilien Halle Haugen</title>
+      <description><![CDATA[Familien Halle Haugen har vært en del av det ypperste norsk løping har å by på i tre generasjoner. Bestefar Per Halle og mor Gunhild har begge løpt internasjonale mesterskap og er nå trenere for lovende barn og barnebarn. 
+I denne episoden møter vi Per og barnebarn/stortalent Simen. Vi diskuterer treningen Per gjorde på 70-tallet og hva som er bevart og hva som er endret i dagens treningsfilosofi. Simen har løpt mila på 29.06 og drar god nytte av familiens kunnskap som er bygd opp gjennom 50 år.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/0460e9e2-455f-4c9e-8329-b24de668428e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/0460e9e2-455f-4c9e-8329-b24de668428e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:10:37</itunes:duration>
+      <pubDate>Fri, 13 Mar 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Henrik Ingebrigtsen </title>
+      <description><![CDATA[Familien Ingebrigtsens første gjennombruddsmann forteller om hvorfor familien trener som de gjør. Treningsfilosofien ble jobbet fram for 10 år siden og har gitt familien fantastiske resultater. Henrik Ingebrigtsen forteller om hvorfor han ikke valgte langrenn, et mislykket opphold i USA, og hvordan han jobber mentalt. 
+Etter noen tøffe skadeår, hvor han knapt har fått trent med sin fremgangsrike brødre, mener den eldste av løpebrødrene at han har blitt klokere. 
+I innledningen får Kristian og Jann besøk av Sindre Buraas. Sammen snakker de om koronavirusets innvirkning på løpeverden, hvordan man kan holde treningsmotivasjonen oppe, og hva man kan gjøre treningsmessig når alle konkurranser blir avlyst og utsatt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/891da02c-9c87-42fa-ae89-f9b0b3e70682_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/891da02c-9c87-42fa-ae89-f9b0b3e70682_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:32:20</itunes:duration>
+      <pubDate>Fri, 20 Mar 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ingebrigtsen-kopi</title>
+      <description><![CDATA[Ronny Losoa startet med løping etter passerte 30 år. I starten plukket han treningstips fra nettet, men de siste årene har han gått over til å kopiere treningen til brødrene Ingebrigtsen så nøye han bare kan. Hva skjer når en supermosjonist begynner å trene som en Ingebrigtsen?
+I innledningen får Kristian og Jann besøk av Norges beste langdistanseløper på kvinnesiden, Karoline Bjerkeli Grøvdal. Hun forteller hvordan det er å få få OL og sesongen utsatt, hva hun gjør treningsmessig og hvordan hverdagen er i disse Korona-tider.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/658140ed-8437-441b-a140-c9c516b1e25a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/658140ed-8437-441b-a140-c9c516b1e25a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:16:40</itunes:duration>
+      <pubDate>Fri, 27 Mar 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Hjerneforskeren</title>
+      <description><![CDATA[Ole Petter Hjelle, populært kalt treningslegen, har forsket på hvordan fysisk aktivitet påvirker hjernen. Det har sjelden vært mer aktuelt enn akkurat nå. Han har konkludert med at hadde mosjon/trening vært en pille ville alle tatt den. Vi dykker dypere inn i årsakene til dette, hva trening betyr for den mentale helsen i disse corona-tider, og hvordan hjernen jobber for og mot oss i treningsarbeidet. 
+Kristian har ikke trent på en uke. Hva skjer?
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/8508a188-ac7c-4d24-9883-40c1474a461e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/8508a188-ac7c-4d24-9883-40c1474a461e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:19:36</itunes:duration>
+      <pubDate>Fri, 03 Apr 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Verdens nest lengste skitur</title>
+      <description><![CDATA[To uker før påske gikk Joar Thele 519 kilometer på ski sammen med brødrene Aukland. Her får du høre Thele fortelle det meste om opplevelsen. Men Thele er ikke bare god på ski. Den tidligere juniorverdensmesteren i padling satte også løyperekord i Nordmarka skogsmaraton på 2.37 og kan fortelle om en uvanlig idrettsbakgrunn.
+Kristian har tatt et drastisk valg med tanke på sin skade
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/24a1e66a-d0f6-432b-82db-d279efb1f5e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/24a1e66a-d0f6-432b-82db-d279efb1f5e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:24:22</itunes:duration>
+      <pubDate>Fri, 10 Apr 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fra vektløfter til norgesmester</title>
+      <description><![CDATA[Maria Sagnes Wågan kom fra en allsidig idrettsbakgrunn da hun begynte å satse på løping som 20-åring. Blant annet er hun kretsmester i vektløfting. 7 år etter at løpeeventyret startet er hun tre ganger norgesmester og har representert Norge i EM-terrengløp og i EM for lag. Hvordan er det mulig? Wågan forteller om mye trening og stor motivasjon.
+Kristian er en uke nærmere operasjon og har inntatt karantenelivet i Turku. 
+Jann prøver å trene innimellom familielivets utfordringer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/4f2b8ade-646d-4376-83ff-a56877876583_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/4f2b8ade-646d-4376-83ff-a56877876583_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:13:58</itunes:duration>
+      <pubDate>Fri, 17 Apr 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nordstad Moen i Kenya</title>
+      <description><![CDATA[Sondre Nordstad Moen har vært i Kenya i 4 måneder og valgte å bli på treningsleir da Koronakrisen var et faktum. Nå sitter han på en returbillett han ikke vet om han får brukt. Vi fikk tak i den norske rekordholderen på 10000m, halvmaraton og maraton. Han forteller om hvorfor han ble i Kenya, justering av trening, gode testresultater og fremtidsplaner. 
+Kristian er en natt unna operasjon i Finland og Jann har testet formen ute etter all mølletreningen.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/6426f0eb-5e81-4ee8-b683-6ba391f33aef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/6426f0eb-5e81-4ee8-b683-6ba391f33aef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:52</itunes:duration>
+      <pubDate>Fri, 24 Apr 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Måkestad Bovims berg- og dalbane  </title>
+      <description><![CDATA[Ingvill Måkestad Bovim snakker om veien fra barnestjerne, via 10 år med stagnasjon og skader, til en tankevekkende bryllupstale og internasjonal suksess, etterfulgt av skademareritt og to OL som aldri ble noe av. 
+Selvfølgelig blir det mye treningsprat. Og vi får høre om da Bovim var en graviditet unna og bli lagvenninne med Mo Farah under den senere utestengte treneren Alberto Salazar.
+Kristian har operert for Haglunds hæl i Finland og er tilbake i karantene hjemme. Han får gode råd av Bovim som har blitt operert for det samme to ganger.
+Jann har arrangert testløp i en kontrollmålt 5 km for to meget gode løpere.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/df035d32-48b7-4d85-8d11-fdb50d1e4f47_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/df035d32-48b7-4d85-8d11-fdb50d1e4f47_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:39:48</itunes:duration>
+      <pubDate>Fri, 01 May 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kenyansk dopingproblematikk</title>
+      <description><![CDATA[Vi løser mysteriet rundt et sprøytebilde tatt rett ved en friidrettsbane i Kenya. Bilde fikk det kenyanske friidrettsforbundet til å gå ut mot en en norsk journalist i en pressemelding, hvor de sier at bildet er publisert for å skade Kenyas rykte. De skriver at lignende bilder er iscenesatt tidligere. Nå står fotografen frem og forteller hva som skjedde og hvordan han ser på Kenyas dopingproblemer. 
+Sondre Nordstad Moen har vært mer i Kenya enn de fleste og kommer med sine betraktninger rundt dopingproblematikken i landet rett før han reiser hjem til Norge.
+Kristian og Jann diskuterer en imponerende treningsøkt av våre beste triatleter. Og vi lanserer «timesutfordringen».
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/18a72ffa-6794-4300-b2cb-f00699bab435_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/18a72ffa-6794-4300-b2cb-f00699bab435_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:54</itunes:duration>
+      <pubDate>Fri, 08 May 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Skogens konge</title>
+      <description><![CDATA[Olav Lundanes har tosifret antall VM-gull og er den beste langdistanseløperen i orienteringshistorien. Hør hvilke valg han har tatt for å bli så god, hvordan han trener, kritikken han har overvunnet og om han tror han løper fra brødrene Ingebrigtsen i skogen. 
+I disse Koronatider opplever han at flere mosjonister kommer seg ut blant trærne for å trene. Er du en av dem får du et par tips.
+Kristian er ute av karantene og kan gå på sin skadde fot. Dermed kunne han være med da Amalie Sæten imponerte med 16.03 i vårt testløp på 5 kilometer.
+Jann prøver å bli flinkere til å trene og har prøvd seg på timesutfordringen.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/b73aa7a8-c71d-486c-aed0-96175725c98b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/b73aa7a8-c71d-486c-aed0-96175725c98b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:36:52</itunes:duration>
+      <pubDate>Fri, 15 May 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sesongstart og spørsmålsrunde</title>
+      <description><![CDATA[Jakob Ingebrigtsen sesongstartet med å sette ny norsk bestenotering på 5 km. Vi får være med på nedjoggen.
+På Østlandet dukket Sindre Buraas opp med en kanontid i et lite «comeback». Det passet bra for sammen med Karoline Bjerkeli Grøvdal og Kristian utgjør han ekspertpanelet som svarer på lytterspørsmål i denne episoden. En rekke ulike temaer kommer opp. Så her får mange svar på noe de lurer på om trening og andre ting.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/3a669981-87a3-4991-bd68-be5fe0a2e160_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/3a669981-87a3-4991-bd68-be5fe0a2e160_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:35:45</itunes:duration>
+      <pubDate>Fri, 22 May 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gustav Iden</title>
+      <description><![CDATA[Det er ikke hvem som helst som blir verdensmester i triatlon. Gustav Iden klarte det i en alder av 23 år. Sammen med Kristian Blummenfelt og Casper Stornes har han fått Norge opp i verdenseliten. Hør Iden fortelle om treningsfilosofi, treningsmengder og hvordan han ville trent som løper. For fort løper triatletene. 
+Vi får også en rapport fra Filip Ingebrigtsen og et intervju med Kristian Blummenfelt etter at han gjorde 13.51 på 5 km.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/96766346-39f2-4859-a135-14d92d9df736_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/96766346-39f2-4859-a135-14d92d9df736_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:19</itunes:duration>
+      <pubDate>Fri, 29 May 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Overbelastning, graviditet og antidoping</title>
+      <description><![CDATA[Etter over 25 år i toppidretten har orienteringsverdensmester Anne Margrethe Hausken Nordberg erfaring med det meste. Som trebarnsmor på 44 år satser hun fortsatt for fullt ved siden av jobben i Antidoping Norge. I fjor ble nummer fem i VM etter å ha trent mer enn noen gang. Hør Hausken Nordberg fortelle om en stjernesmell i slutten av tenårene, hvordan hun trente før og etter tre fødsler med råd fra fagfolk, reaksjoner fra mammapolitiet, tidsklemmetoppidrett og hvordan Antidoping Norge er og har vært involvert i antidopingarbeidet i Kenya.
+Triatletene fortsetter å skape debatt rundt løpenivået sitt. Vi har snakket med Kristian Blummenfelt.
+Vi har også sett mange av Norges lovende løpere i aksjon og så tok Jann turen innom når langrennslandslaget kjørte 8x1000m.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/5e73052d-9466-4994-ae48-1591f11a9e21_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/5e73052d-9466-4994-ae48-1591f11a9e21_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:12:32</itunes:duration>
+      <pubDate>Fri, 05 Jun 2020 08:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Tidsklemma</title>
+      <description><![CDATA[Ekteparet Gunhild Maria Hugdal og Harald Torgersen har fem barn og holde styr på, samtidig som begge vil holde treningen vedlike. Hvordan får de det til? Det løpes milevis med to barn i vogn og på kjøkkenet står enn inngjerdet tredemølle. Det fungerer så bra at Gunhild nylig løp halvmaraton på 1.31 selv om hun først begynte å konkurrere etter å fått barn nummer fire. Hør hvordan familien løser hverdagen.
+Kristian har trent for første gang siden operasjonen og Jann sliter med motivasjonen. Men vi har møtt Norges beste løper på 800-meter, Thomas Roth, som har valgt å legge opp midt i koronaperioden.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/69e93875-6057-4ef0-95bd-285913030694_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/69e93875-6057-4ef0-95bd-285913030694_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:16:07</itunes:duration>
+      <pubDate>Fri, 12 Jun 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fra håndballkeeper til 1329</title>
+      <description><![CDATA[Marius Vedvik gikk fra å være håndballkeeper i tenårene til bli EM-deltaker i friidrett i starten av 20-årene. På tre år gikk han fra å starte satsingen på å løpe til å løpe EM-finale mot Mo Farah på 10 000m. Hør han forklare hvordan det var mulig og hvordan han stadig tar steg som toppidrettsutøver. I fjor løp han imponerende 13.29 på 5000m.
+Kristian og Jann diskuterer Impossible Games på Bislett. Therese Johaugs trener Pål Gunnar Mikkelsplass forteller hvordan skistjernen trente før hun løp 31.40 på 10 000m.
+Og Kristian sjokkerer Jann med å si at han har løpt på det opererte beinet.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/4bb963c4-366a-463a-a7bc-6484d8a351db_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/4bb963c4-366a-463a-a7bc-6484d8a351db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:29:10</itunes:duration>
+      <pubDate>Fri, 19 Jun 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Orienteringsprinsens friidrettsflørt</title>
+      <description><![CDATA[Vi følger orienteringssportens komet, Kasper Fosser, under forsøket på å løpe under 8 minutter på 3000m på trening. 
+Allerede som junior tok han sølv i senior-VM på hjemmebane. Fosser er sin egen trener og er inspirert av treningen til familien Ingebrigtsen og andre langdistanseløpere. Hør om hvordan han trener, hvorfor han trener seg selv, hva han tenker om å løpe mer friidrett og terrengløp og hvorfor han kom så raskt tilbake etter vinterens tretthetsbrudd.
+Kristian forteller om ytterligere fremgang, Sondre Nordstad Moen dukker opp, timesutfordringen utvides etter at Mo Farah lanserte verdensrekordforsøk og Jann raser mot skiløpere som åpner for hardt i løpskonkurranser.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/fcd98f12-4b32-4b23-9e8c-dcb17b2fbfcc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/fcd98f12-4b32-4b23-9e8c-dcb17b2fbfcc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:15:59</itunes:duration>
+      <pubDate>Fri, 26 Jun 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kappgangstjernen og løpsdisponering</title>
+      <description><![CDATA[Kappgjenger Håvard Haukenes passerer maraton på under 3.10 når han går 50 km. Han konkurrerer på samme underlag og like lenge som en maratonmosjonist når han kjemper om topplasseringer i EM, VM og OL. Det må jo være et glimrende utgangspunkt for læring. Vi ville vite hvordan han trener, disponerer løp og hvordan han tar til seg drikke og næring undervegs. Det ble en interessant samtale.
+Etter at Kristian og Jann skjelte ut langrennsløpere generelt, og Christoffer Callesen spesielt, for å åpne for hardt i løp, så tar vi opp tråden i denne episoden. Callesen er gjest når vi diskuterer løpsdisponering. Vi får innspill fra Henrik Ingebrigtsen og Sindre Buraas, og gir langrennsløper Karstein Johaug en praktisk oppgave.
+Triatlet Trude Stormo er på jakt etter halvmaratonpers i rygg på Jann.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/ef3170f6-7479-4e1b-8e5a-ad43a522ffbb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/ef3170f6-7479-4e1b-8e5a-ad43a522ffbb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:40:29</itunes:duration>
+      <pubDate>Fri, 03 Jul 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Therese Johaug</title>
+      <description><![CDATA[Etter å ha løpt 31.40 på 10 000 meter på Bislett fikk Therese Johaug mer oppmerksomhet enn etter store seire på vinteren. Vi møtte en åpen Johaug som forteller om løpet på Bislett, detaljert om treningen sin, gjennomføring av økter, sitt forhold til løping, løpeplaner fremover og hvordan hun trente da hun var utestengt og neste mål var langt fram i tid. Her kan mange plukke opp et tips eller to uansett alder og nivå.
+Kristian har vært på jobb som reporter etter 10000m i Bergen. Vi får høre fra en 17-åring som løp 224 km på 28 timer og vi har snakket med Norges beste utøver i VM i beer mile.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/564153b9-01ca-4f4f-a62f-0ea298b0c287_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/564153b9-01ca-4f4f-a62f-0ea298b0c287_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:43:35</itunes:duration>
+      <pubDate>Fri, 10 Jul 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fjelløperen</title>
+      <description><![CDATA[Yngvild Kaspersen gikk fra ungdomslandslag i fotball til å bli en betalt fjelløper på rekordtid. Hvordan var det mulig? De siste årene har Kaspersen reist verden rundt og levert strålende resultater i de mest prestisjefylte løpene. Vi får innblikk i en løpe verden som er annerledes den flate asfalten kan by på.
+Kristian har kommet seg opp i 15 minutters sammenhengende løping etter operasjonen. Jann har bedt seg selv med på tre timers langtur i skauen med Therese Johaug.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/0ab9ae6d-f242-485f-9f3f-26ad887078b1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/0ab9ae6d-f242-485f-9f3f-26ad887078b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:17:10</itunes:duration>
+      <pubDate>Fri, 17 Jul 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Treningen som ga OL-gull</title>
+      <description><![CDATA[Vebjørn Rodal er tilbake. Denne gangen forteller han om treningen som ga OL-gull på 800 m i 1996. Selv om Rodal løp kortere enn de fleste av oss, så finnes det ting å lære. 
+Hvorfor har ikke flere tatt etter treningen som ga en suksess ingen andre norske løpere har opplevd? Trente Rodal umenneskelig hardt? Rodal gir klare svar.
+Kristian og Jann sliter med motivasjonen, men lar seg inspirere av utøvere som legger i vei på galskap prosjekter i sommer.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/9a02eb58-a2f8-4628-b5dc-68feab3e73bd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/9a02eb58-a2f8-4628-b5dc-68feab3e73bd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:14:37</itunes:duration>
+      <pubDate>Fri, 24 Jul 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mammaekspressen</title>
+      <description><![CDATA[Ragnhild Kvarberg løp mesterskap for Norge både før og etter hun ble mor. Et skifte i treningsfilosofi er en viktig suksessfaktor. Etter at hun la opp vant hun Sentrumsløpet som travel trebarnsmor med begrenset tid til å trene. Til daglig jobber hun som fysioterapeut og har blant annet jobbet med det norske friidrettslandslaget. Vi benyttet sjansen til å få noen tips.
+Kristian har vært i møte med Antidoping Norge og var tilstede da Sondre Nordstad Moen løp 10 km på 28.13 i forrige uke.
+Jann forsøker å løpe 40 km i fjellet før han fyller 40 år.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/4483eb52-e21d-4af1-9e8e-f274dcbe6fbf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/4483eb52-e21d-4af1-9e8e-f274dcbe6fbf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:20:36</itunes:duration>
+      <pubDate>Fri, 31 Jul 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Vi ser mot utlandet</title>
+      <description><![CDATA[Brødrene Thomas og Andreas Roth har blitt trent av to suksessrike utenlandske trenere i Tomasz Lewandowski og Honore Hoedt. Vi ville finne ut om det tenkes annerledes rundt trening utenfor Norge. Roth-brødrene gir sitt bilde av de ulike filosofiene som har fått frem verdensstjerner.
+Kristian gir et innblikk i treningen til Sondre Nordstad Moens italienske trener Renato Canova.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/ae8afa62-251f-41b7-9754-cc6e95adf16b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/ae8afa62-251f-41b7-9754-cc6e95adf16b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:35:19</itunes:duration>
+      <pubDate>Fri, 07 Aug 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Johannes Thingnes Bø</title>
+      <description><![CDATA[En av Norges største idrettsstjerner er spesiell i form av unike prestasjoner og måten han trener på. Johannes Thingnes Bø forteller om manglende treningsdagbok, dropping av økter,  dårlig samvittighet og ubesvarte anrop fra treneren. Han er opptatt av kvalitet, overskudd, maksimalt fokus når han trener og å være i form til riktig tid. Det ble et interessant møte med den nye skiskytterkongen, som tenker annerledes enn mange av sine toppidrettskollegaer.
+Skoekspert Henrik Nordtug forteller om skoregler og hva som skjedde da Sondre Nordstad Moen fikk beskjed om at han europarekord på timesløp ikke kommer til å telle.
+Kristian og Jann gir treningsråd til en som har inngått et veddemål.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/af35634c-84dc-48af-9040-3a12fdaa65e5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/af35634c-84dc-48af-9040-3a12fdaa65e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:28:29</itunes:duration>
+      <pubDate>Fri, 14 Aug 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Løpesko</title>
+      <description><![CDATA[Skonerd Henrik Nordtug gjester oss for å svare på lytternes løpeskospørsmål. Vi får vite hva slags sko han har på utstilling hjemme, hvor mye han mener karbonskoene har å si og vi diskuterer varighet, pronasjon, barfotbølgen, skoregler og mye mer.
+Kristian og Jann starter episoden med å diskutere Jakob Ingebrigtsens nye europarekord og mer av det som skjedde i rekordstevnet i Monaco.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/e3182f0b-3411-4064-a2c5-d6a1907cb2fd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/e3182f0b-3411-4064-a2c5-d6a1907cb2fd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:39</itunes:duration>
+      <pubDate>Fri, 21 Aug 2020 03:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gjennombruddet</title>
+      <description><![CDATA[Amalie Sæten har tatt et stort steg på 1500 m denne sesongen. I sommer kom hun seg under 4.10 som den tiende norske kvinnen gjennom alle tider. Hadde det vært EM i Paris denne uken som planlagt hadde Sæten løpt for Norge. Hva skyldes fremgangen til 22-åringen fra Kristiansand og hvordan trener hun? Vi fikk svar på våre spørsmål.
+Kristian og Jann gleder seg over de norske fremgangene i Stockholm. Og Kristian har tenkt å konkurrere med en 10-åring.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/a2f12095-9120-412b-aab3-1916028799c3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/a2f12095-9120-412b-aab3-1916028799c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12:32</itunes:duration>
+      <pubDate>Fri, 28 Aug 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>It runs in the family</title>
+      <description><![CDATA[Gunhild Halle Haugen har en far som løp OL-finale, selv løp hun OL, VM og EM, og nå trener hun sine fire barn som allerede er på høyt nivå. Hvilke tanker gjør hun seg om familiens treningsfilosofi, hva har hun endret på siden hun løp selv og hvordan er det å trene egne barn. Vi dykker inn i talentfabrikken Halle Haugen.
+Kristian forteller om sitt konkurransecomeback mot 10 år gamle Per August. 
+Og Jann møter en høytsvevende Nikolay Ramm som har satt pers på halvmaraton.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/18815973-9e7a-49cf-981e-b725ac0e92f1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/18815973-9e7a-49cf-981e-b725ac0e92f1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:21:28</itunes:duration>
+      <pubDate>Fri, 04 Sep 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Innlemmet i Team Ingebrigtsen</title>
+      <description><![CDATA[Narve Gilje Nordås har smadret sine personlige rekorder denne sesongen og står fram som et av de beste eksemplene fremgangen bak våre aller beste løpere. Siden mars har han trent fast med brødrene Ingebrigtsen i Sandnes. Hva er årsaken til at han løper mye fortere i år? Og hvordan er det å trene i landets heftigste treningsmiljø? Narve gir oss svar.
+Kristian og Jann diskuterer norsk fremgang, Mo Farah, timesutfordringen og vi har fått et intervju med nordsjøarbeider Stian Andersen, som satt norsk rekord på 100 miles.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/0b869f00-8ccc-4d17-ba67-6f9239443bd7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/0b869f00-8ccc-4d17-ba67-6f9239443bd7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:16:35</itunes:duration>
+      <pubDate>Fri, 11 Sep 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fra 170 kg til ultraløp</title>
+      <description><![CDATA[Hvordan skal man komme i gang med å løpe? Og hvordan går man fra å løpe noen få korte turer hver uke til å løpe maraton? I denne episoden møter vi to utrolig inspirerende løpere: Kim Roger Kristensen, som bor på ei øy, har tre små barn, full jobb og som klarte å gå fra 170 kg til å løpe ultraløp på 2 år, og Trude Håland som debuterte på maraton som 40-åring og 10 år senere har løpt 52 av dem.
+Vi får også høre fra Hedda Hynne etter at hun satte norsk rekord, nordisk rekord og årsbeste i verden på 800 m. Og vi møtte langrennsløper Anders Gløersen før og etter at han debuterte på maraton.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/6a7217aa-8137-4cf2-a606-3d92a5b0f908_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/6a7217aa-8137-4cf2-a606-3d92a5b0f908_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:27:50</itunes:duration>
+      <pubDate>Fri, 18 Sep 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title> Leppa fra Grorud</title>
+      <description><![CDATA[Arne Kvalheim er en norsk løperlegende med 10 NM gull, kongepokal, EM og OL på samvittigheten. I løpet av sin aktive karriere møtte «leppa fra Grorud» mange av de største stjernene langdistanseløping har hatt. Hør Arne fortelle om det han opplevde under OL i Mexico, da han var med på å rekruttere Steve Prefontaine, hvordan det var å trene under stortreneren Bill Bowerman, hva Audun Boysen lærte han, hvorfor han boikottet et EM og selvsagt hvordan han trente.
+Vi har snakket med noen av de som preget NM i Bergen i helga for å få noen formtoppingtips. Og Jann prøvde seg på «restitusjonstur» med medaljevinnerne Narve Gilje Nordås og Bjørnar Sandnes Lillefosse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/0880296d-3762-4722-846c-7bc0d1ced8a9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/0880296d-3762-4722-846c-7bc0d1ced8a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:40:47</itunes:duration>
+      <pubDate>Fri, 25 Sep 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>London Marathon</title>
+      <description><![CDATA[London Marathon og de bestes maratontrening står på agendaen når Sindre Buraas er tilbake som gjest.  Vi får høre fra Jack Waitz og Ingrid Kristiansen om norske seire og rekordtider på 80-tallet, vi har snakket med Inge Simonsen som delte seieren i tidenes første London Marathon, Sondre Nordstad Moen forteller detaljert om sin oppkjøring til årets utgave, vi diskuterer treningen til verdens beste maratonløper, Eliud Kipchoge, og Andreas Myhre Sjurseth forteller hvorfor han er borte fra startlisten til årets heftigste maratonløp.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/d4cffba7-f28b-4977-86c2-c00910e76caa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/d4cffba7-f28b-4977-86c2-c00910e76caa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:40:28</itunes:duration>
+      <pubDate>Fri, 02 Oct 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>24 hours in Hell</title>
+      <description><![CDATA[Hvordan kan en 45 år gammel lærer, som løp sitt første maraton for 8 år siden, løpe 251, km på 24 timer og sette ny nordisk rekord? Det måtte vi bare finne ut av. Hør om rekordløpet til Norges beste ultraløper Therese Falk, hvordan løpingen var med på å få henne ut av en dyp mental bølgedal, og hvordan hun trener for å få til de utrolige resultatene.
+Vi snakker med Sondre Nordstad Moen etter London Marathon, Karoline Bjerkeli Grøvdal etter ny norsk bestenotering på 5 km og Kristian og Jann diskuterer NM halvmaraton og egen treningsfremgang. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/bccb5280-3ab8-4395-af6c-d7c8efe5c12d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/bccb5280-3ab8-4395-af6c-d7c8efe5c12d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:05:55</itunes:duration>
+      <pubDate>Fri, 09 Oct 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Løpingens historie</title>
+      <description><![CDATA[Denne uken er det historietime med den kjente forfatteren Thor Gotaas. Få har så mange historier å fortelle som Gotaas. Vi får en uhøytidelig gjennomgang av løpingens historie fra budbringere til de moderne atleter. Det blir selvfølgelig også snakk om ulike treningsfilosofier de siste 100 årene.
+Vi byr også på intervjuer med NM-vinnerne i terrengløp, Karoline Bjerkeli Grøvdal og Filip Ingebrigtsen, og Henrik Ingebrigtsen forteller om sin mystiske skade.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/35f4f95f-2742-4b70-a6f0-574b23aa1278_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/35f4f95f-2742-4b70-a6f0-574b23aa1278_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:07</itunes:duration>
+      <pubDate>Fri, 16 Oct 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Grøvdals snuoperasjon</title>
+      <description><![CDATA[Etter en lang skadeperiode smalt Karoline Bjerkeli Grøvdal med 30.32 på Hytteplanmila. Hvordan er det mulig å løpe Europas nest beste tid noensinne og være sitt livs form med  bare 6-7 ukers løpetrening etter skade? Grøvdal tar oss med på en 6 måneders reise som består av frustrasjon, håp, knuste drømmer, alternativ trening, fremgang og idrettsglede. 
+Kristian og Jann har vært harer på en lokal maraton og snakker med spennende typer som løp på 2.20.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/f842947a-72fb-4417-992f-e83460be8e8c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/f842947a-72fb-4417-992f-e83460be8e8c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:54</itunes:duration>
+      <pubDate>Fri, 23 Oct 2020 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fjellkongen</title>
+      <description><![CDATA[Kilian Jornet har vært verdens beste i fjellet i en årrekke og er en av de mest spennende utøverne i løpeverden. Han er mange ganger verdensmester både med terrengsko og ski på beina. Han har satt rekorder opp og ned ikoniske fjell. Han behersker både korte stupbratte løp og lange ultraløp i varierende terreng. Vi tok en prat med fjellegenden, som bor i Norge, om trening, Mount Everest, o2-opptak, oppveksten i Pyrineene og hans første flate asfaltløp Hytteplanmila (29.59).
+Kristian har fått en dårlig beskjed av kirurgen sin og Jann prøver å motivere han til alternativ trening. Og så er ukas økt tilbake.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/12b485fc-6c1f-4532-88cb-8ac7aeca0a7d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/12b485fc-6c1f-4532-88cb-8ac7aeca0a7d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:31:18</itunes:duration>
+      <pubDate>Fri, 30 Oct 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fotballspilleren</title>
+      <description><![CDATA[Vienna Søyland Dahle var fotballspiller på treningsleir i varmere strøk da treneren satte opp en 3000m-test. Det skulle endre hennes idrettsfremtid. Noen år senere var hun norsk mester på 10 000m. I år vant hun samme distanse og halvmaraton-NM etter heftige spurtoppgjør. I perioder trente hun ekstremt mye styrke, ved siden av løping og fotball, og levde et veldig travelt liv med lite søvn. Men fremgangen fortsatte. Hør den uvanlige historien bak Dahle løpesuksess.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/205ad93b-69ff-4d6a-b791-71344bb923cb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/205ad93b-69ff-4d6a-b791-71344bb923cb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:40</itunes:duration>
+      <pubDate>Fri, 06 Nov 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mesteren av effektiv trening</title>
+      <description><![CDATA[Thomas Fremo er småbarnsfar, sjonglerer to jobber, trener halvparten av eliteløperne og løper 10 km på 29.17. Hvordan er det mulig?
+Den tidligere langrennsløperen forteller om sin effektive trening og hva han legger vekt på. Med et snitt på 70-80 km løping i uka gjør han garantert mye smart.
+Kristian og Jann diskuterer smått og stort i løpeverden, blant annet en meget positiv undersøkelse på lite covid 19-smitte under løpskonkurranser i Japan.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/1dcbcd99-bf23-4a9e-aabb-079e9d6cb8d0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/1dcbcd99-bf23-4a9e-aabb-079e9d6cb8d0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22:35</itunes:duration>
+      <pubDate>Fri, 13 Nov 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Filip Ingebrigtsen</title>
+      <description><![CDATA[Brødrene Ingebrigtsen er på høydesamling. Filip Ingebrigtsen forteller hvordan den strenge hverdagen er på campen i disse dager. VM-medaljøren forklarer hvorfor gjennombruddet kom i 2016 og hvor nære han var å legge opp. Og så snakker vi selvsagt om trening. Hva mener Filip er den viktigste delen av deres treningsfilosofi? Og hvilke tips har han til mosjonister som trener mye mindre enn han selv? Kristian og Jann diskuterer hvor viktig sesongpause er og får innspill fra Hedda Hynne, Karoline Bjerkeli Grøvdal, Tom Erling Kårbø og Sondre Nordstad Moen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/40f7aa1f-fee1-4e97-971c-d74635db40d8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/40f7aa1f-fee1-4e97-971c-d74635db40d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:16:18</itunes:duration>
+      <pubDate>Fri, 20 Nov 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Susanne Wigene</title>
+      <description><![CDATA[Med den utrolige tiden 30.32 tok Susanne Wigene EM-sølv på 10 000 meter under EM i 2006. Karrieren skjøt fart da hun begynte å trene under Knut Kvalheim. Vi får svaret på hvordan hun trente i denne perioden, hvorfor suksessen ikke fortsatte, historien bak nesten-comebacket noen år senere og mye mer.
+Kristian er høyt oppe etter en stor idrettshelg i nord, og Jann forklarer reglene til sin faste løpejulekalender.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/9bbf11e7-e57b-437c-8a7b-24b9a4bf09d8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/9bbf11e7-e57b-437c-8a7b-24b9a4bf09d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:24:46</itunes:duration>
+      <pubDate>Fri, 27 Nov 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Verdensrekordforsøket </title>
+      <description><![CDATA[Sebastian Conrad Håkansson løp rett fra Kilian Jornet da han gikk for verdensrekorden på 24-timer forrige helg. Men det ble aldri lenger enn 303 km på et døgn på den tidligere vinneren av Oslo trippelen, men han løp bedre en de norske bestenoteringene på 12-timer og 100-miles. Hør hvordan han opplevde å løpe rundt og rundt på en bane i timesvis, hvordan han kunne løpe sin første maraton på 2.50 nesten uten spesifikk løpetrening, om da han løp 2.26 på maraton for seg selv 17.mai, hvordan han trener til vanlig og noe av all den andre galskapen han har funnet på.
+I tillegg kommer den ferske verdenscupvinneren i kombinert Jens Lurås Oftebro innom for å fortelle om et løpeprosjekt som holdt på å sette halve kombinertlaget ut av spill.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/84a3027f-3f65-4004-9ee1-52aa9e3c9636_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/84a3027f-3f65-4004-9ee1-52aa9e3c9636_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:48</itunes:duration>
+      <pubDate>Fri, 04 Dec 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Svaksynt løpelykke og vintersko </title>
+      <description><![CDATA[Svaksynte Eline Øidvin oppdaget løpegleden sent men godt. Etter å ha blitt utfordret til å løpe en distanse under Oslo Maraton ble hun hektet. Nå er løpingen en sentral del av livet og gir henne utrolig mye glede. Eline forteller om løpsopplevelser, utfordringer og hva løpingen har gitt henne.
+Skoekspert Henrik Nordtug kommer innom for å diskutere en ny skoregel og hvordan vi bør sko oss på glatt vinterføre.
+Kristian og Jann diskuterer ny verdensrekord på halvmaraton og en økt de snappet opp på Team Ingebrigtsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/30ce3286-6014-4f60-a677-bdbb20e2028d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/30ce3286-6014-4f60-a677-bdbb20e2028d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:29:06</itunes:duration>
+      <pubDate>Fri, 11 Dec 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Olympiatoppens intensitetsskala </title>
+      <description><![CDATA[Olympiatoppens intensitetsskala har blitt revidert. Hva er nytt? Thomas Losnegard, fagansvarlig for utholdenhet gir oss svar. Vi snakker oss gjennom sonene og hvordan han mener skalaen bør brukes. I tillegg tar vi en diskusjon om disponering av konkurranser. Hvilke anbefalinger har fagmannen?
+Kristian og Jann har fokus på rolig løping. Hvordan styrer toppløperne rolig trening. 4 av Norges beste løpere kommer med sine innspill.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/644d1c52-9871-42fb-9dc7-429c40a4cf63_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/644d1c52-9871-42fb-9dc7-429c40a4cf63_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:28:50</itunes:duration>
+      <pubDate>Fri, 18 Dec 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Det var det året det var så bratt</title>
+      <description><![CDATA[Det er tid for å oppsummere 2020. Vi ringer opp fire av årets gjester og spør hvordan ting gikk. Lars Petter Stormo som valgte helt feil år da han endelig ble proff i en alder av 40 år, Thomas Alsgaard har fått vekket liv i en tidligere treningsidé, ernæringsfysiolog og tidligere toppløper Ingvill Måkestad Bovim har fått litt praktisk læring og Sigrid Jervell Våg forteller om veien fra skade til NM-gull.
+Kristian og Jann svarer på spørsmål fra lytterne og røper noen av sine topp 3-lister.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/ea03c162-1390-40cb-8114-d16fc98dbd74_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/ea03c162-1390-40cb-8114-d16fc98dbd74_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:39:15</itunes:duration>
+      <pubDate>Fri, 25 Dec 2020 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Treningen til verdens beste skiløpere</title>
+      <description><![CDATA[Landslagstrener for de norske langrennsherrene, Eirik Myhr Nossum, forteller om treningen til sine verdensmestere. Hvor mye og hvor hardt trener de egentlig? Hvilket forhold har de til rolig trening? Og hva er likhetene og ulikhetene sammenliknet med treningen til gode løpere? Vi byr på en interessant treningsprat.
+Kristian og Jann fortsetter å svare på lytterspørsmål og røper sine mål for 2021.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/9505ab50-5a4b-40d0-8115-bb3f72c169e2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/9505ab50-5a4b-40d0-8115-bb3f72c169e2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:40:35</itunes:duration>
+      <pubDate>Fri, 01 Jan 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Grunntrening </title>
+      <description><![CDATA[Sindre Buraas er tilbake for å snakke om hvordan han mener det bør trenes når det er lenge til neste konkurranse. Hvordan er periodiseringen i den grunntreningsfasen vi går inn i?
+Vi har et intervju med Vera Nystad på 75 år som akkurat satte verdensrekord med 3.52 på maraton.
+Jann får svar på hvorfor Kristian ikke legger ut noe på Strava lenger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/9626532d-df48-4445-bb85-062773a3bab7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/9626532d-df48-4445-bb85-062773a3bab7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:11:14</itunes:duration>
+      <pubDate>Fri, 08 Jan 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Verdensrekordholder Vera Nystad </title>
+      <description><![CDATA[75 år gammel satte Vera Nystad verdensrekord i sin klasse med 3.52.19 på maraton. Vi får svaret på hvorfor hun startet å løpe midt i livet, hvordan hun trener, hva hun synes om karbonsko og hva hun tenker om fremtiden. Nystad har løpt over 170 maraton og forteller om fantastiske opplevelser ved foten av Mount Everest, i Sahara og på den kinesiske mur.
+Kristian trener bedre enn på 9 måneder og er på hugget når japansk løping, Sundby mot verden, Mørketidsløpet og lytterspørsmål diskuteres med Jann.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/f00155a0-97ec-4af7-9fba-ee7c0185fe94_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/f00155a0-97ec-4af7-9fba-ee7c0185fe94_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12:16</itunes:duration>
+      <pubDate>Fri, 15 Jan 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Svalbard</title>
+      <description><![CDATA[Hvis du synes det er tungt å komme deg ut på mørke og kalde dager i januar kan du trøste deg med at løperne på Svalbard har det verre. 
+Ruben og Kjetil trener mot New York Marathon i Longyearbyen, en by hvor sola ikke dukker opp igjen før 8.mars. 
+På langturer er det hodelykt og pistol i sekken som gjelder. Heldigvis har de ikke møtt på isbjørn på løpeturene. Ennå..
+Kristian og Jann svarer på lytterspørsmål og diskuterer fysisk aktivitet i kaldt vintervær.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/adde400e-9d58-4c30-98c7-2787b6ccc2c8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/adde400e-9d58-4c30-98c7-2787b6ccc2c8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:28</itunes:duration>
+      <pubDate>Fri, 22 Jan 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fra fotball til fjell. </title>
+      <description><![CDATA[Eli Anne Dvergsdal startet å løpe som satsende fotballspiller. Resultatene var så gode at hun skiftet idrett. Det første året etter hun la opp som toppspiller tok hun EM-sølv i motbakke. Hvordan var det mulig? I dag er hun en av Norges desidert beste fjelløpere og klar for å jakte flere internasjonale seire i fjellene og sette gode tider på bane og vei.
+Kristian og Jann svarer på lytterspørsmål og diskuterer Jim Walmsley, som var 11 sekunder unna verdensrekorden på 100 km.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/3390b64b-6f5d-4690-adc7-9b1f417921ee_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/3390b64b-6f5d-4690-adc7-9b1f417921ee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:39:24</itunes:duration>
+      <pubDate>Fri, 29 Jan 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Smøresjefen ble årets ultraløper  </title>
+      <description><![CDATA[Skiskytternes smøresjef Tobias Dahl Fenre ble kåret til årets ultraløper i Norge noen år etter han tok opp løpingen. I dag trener han mer enn lagets største stjerne Johannes Thingnes Bø og sikter mot enda heftigere ultraløp. Hvordan var forvandlingen mulig og hva er det som driver han? Og hvordan blir treningen når man tester ski store deler av dagen?
+Kristian og Jann diskuterer løpsfrekvens, to korte økter eller en lengre økt per dag, en bryllupsreise og innendørssesongen som er i gang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/4ba2965b-7489-4a46-ac1e-0a9244b3f475_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/4ba2965b-7489-4a46-ac1e-0a9244b3f475_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:34:46</itunes:duration>
+      <pubDate>Fri, 05 Feb 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Styrketrening for løpere  </title>
+      <description><![CDATA[Tidligere fagansvarlig for kraft/styrke-avdelingen på Olympiatoppen, Gøran Paulsen, gir oss mye kunnskap rundt styrketrening for løpere. Sentrale spørsmål er hvordan, når og hvor ofte?
+I tillegg forteller Christina Vukicevic, Amalie Iuel, Hedda Hynne, Karoline Bjerkeli Grøvdal, Tom Erling Kårbø og Sondre Nordstad Moen litt om sin styrketrening.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/9ac52c66-78a7-4778-b385-f91a9669b19c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/9ac52c66-78a7-4778-b385-f91a9669b19c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:30:14</itunes:duration>
+      <pubDate>Fri, 12 Feb 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kristian Blummenfelt </title>
+      <description><![CDATA[I løpet av det neste året har Kristian Blummenfelt tenkt å ta OL-medalje, vinne Ironman på Hawaii og gjennomføre Ironman-distansen på under 7 timer. Bak ambisjonene ligger enorme mengder trening og heftig reisevirksomhet. Vi tok en lang prat med en av verdens fremste triatleter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/552a9adb-01b5-4aee-ace0-987678926641_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/552a9adb-01b5-4aee-ace0-987678926641_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:28:06</itunes:duration>
+      <pubDate>Fri, 19 Feb 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Supertalentets reise  </title>
+      <description><![CDATA[Kristine Eikrem Engeset løp sine raskeste tider og deltok i VM som 18-åring. 14 år senere har hun fortsatt stor glede av løpingen og er igjen blant landets raskeste. Vi går igjennom noen av opp og nedturene og hva hun har lært på veien. Vi får høre om veien til europatoppen for juniorer, dårlig treningsopplegg i USA, da venninnen ble kidnappet med Kristine tilstede, tiden under flere topptrenere, hvorfor hun la opp og hvordan hun kom tilbake og i fjor løp mila på 33.23.
+Skoekspert Henrik Nordtug diskuterer om alle de gode tidene i vinter skyldes nye superpiggsko.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/d6e82de6-64bf-4370-8664-c5e4456ed036_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/d6e82de6-64bf-4370-8664-c5e4456ed036_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:36:54</itunes:duration>
+      <pubDate>Fri, 26 Feb 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Den svenske legenden</title>
+      <description><![CDATA[Mustafa Mohamed er en av de beste langdistanseløperne i Norden gjennom alle tider. Med 4.plass i VM på 3000 m hinder og svensk rekord på maraton etter at han passerte 40 år så er han en løpende legende i Sverige. Vi fikk en god prat med joviale Musse før han skulle dra på treningssamling med Mo Farah i Etiopia. Hvordan er hans treningsfilosofi, hvordan er det å trene med verdens beste løpere, hva synes han om at Sverige har satt OL-kravet på maraton til elleville 2.08.
+I tillegg svarer vi på lytterspørsmål, diskuterer et av de heftigste maratonløpene verden har sett og ser nærmere på Karsten Warholms utholdenhetstrening.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/1585b459-2f45-4ce4-ad2e-cdfc342cfec1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/1585b459-2f45-4ce4-ad2e-cdfc342cfec1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:34:59</itunes:duration>
+      <pubDate>Fri, 05 Mar 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Hvorfor løper vi?</title>
+      <description><![CDATA[Sindre Buraas snakker med Jann om hvilke grunner vi egentlig har til å løpe. Hvorfor skal en mosjonist med et travelt liv jage stadig bedre tider når en en som kunne vært i verdenstoppen ikke gjør det? Det ble en litt mer filosofisk prat, som forhåpentligvis for lytterne til å reflektere over sine egne grunner til å trene.
+Kristian og Jann diskuterer innendørs EM i friidrett som ga norske løpere både oppturer og nedturer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/b39923e2-debd-4681-bca6-79a5deea5adf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/b39923e2-debd-4681-bca6-79a5deea5adf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:36:55</itunes:duration>
+      <pubDate>Fri, 12 Mar 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Jakob Ingebrigtsen </title>
+      <description><![CDATA[Det er to uker siden Jakob Ingebrigtsen tok to gull under EM-innendørs. Her forteller han om EM-opplevelsen, jurydramaet etter 1500 m, medfølelsen med Klæbo, hvor mye han trente som liten og hva han tenker rundt trening nå. I tillegg svarer han på to lytterspørsmål og kommer med ukens økt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/7e3d22f9-9b1a-4633-b2e0-14e6977e6bac_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/7e3d22f9-9b1a-4633-b2e0-14e6977e6bac_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:58</itunes:duration>
+      <pubDate>Fri, 19 Mar 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Løpende skøytemester</title>
+      <description><![CDATA[Ragne Wiklund er orienteringstalentet som ble verdensmester på skøyter. Fortsatt har hun tenkt å løpe o-løp sommerstid, selv om hovedfokuset er suksess i OL neste sesong. Hvordan har hun kombinert to så ulike idretter? Hvor ofte løper hun ? Og hvorfor fortsetter hun å løpe orientering? Vi har snakket med verdensmesteren selv.
+Kristian og Jann diskuterer norske resultater, en av Jakob Ingebrigtsens uttalelser fra forrige uke og svarer på lytterspørsmål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/d1284059-e924-4aa4-8750-1926e791b0c9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/d1284059-e924-4aa4-8750-1926e791b0c9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:18:15</itunes:duration>
+      <pubDate>Fri, 26 Mar 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Hans Christer Holund</title>
+      <description><![CDATA[Verdensmesteren i langrenn forteller om sitt spesielle treningssystem, hvordan han finner toppformen, hvorfor fremgangen stoppet etter juniortiden, hvor nære han var å legge opp og at han håper å bruke ett år på løping når skiene legges på hylla.
+Kristian og Jann snakker om det britiske OL-uttaket på maraton, etiopisk uttaksgalskap og svarer på lytterspørsmål.
+
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/a551643a-6137-4db3-afc2-d870f13d8d24_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/a551643a-6137-4db3-afc2-d870f13d8d24_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22:18</itunes:duration>
+      <pubDate>Fri, 02 Apr 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nå skal det løpes </title>
+      <description><![CDATA[Påsken er over og løpesesongen er her. Hva bør vi tenke på når motivasjonen er stor og løpemengden skal økes? Vi tar praten med en av Norges beste mellom- og langdistanseløpere, Even Brøndbo Dahl. Selv har han slitt i mange år med å løpe mye fordi han blir fort skadet. Hvilke erfaringer har han gjort.
+Jann og Kristian diskuterer verdensrekorder og vi får høre litt god gammeldags kjefting.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/638a1eaa-b606-40eb-8e88-236b34c7b3e2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/638a1eaa-b606-40eb-8e88-236b34c7b3e2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:29:53</itunes:duration>
+      <pubDate>Fri, 09 Apr 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Amerikastudenten </title>
+      <description><![CDATA[Andrea Modin Engesæth har valgt å forlate et av de beste løpemiljøene i Norge i en alder av 19 år for å satse parallelt med skolegang i USA. Hvordan var det å dra til USA midt under en pandemi? Hvordan er hverdagen som utøver ved et amerikansk universitet? Og hvilke forandringer har hun møtt når det kommer til treningsfilosofi?
+I tillegg har vi snakket med Anders Aukland som i helgen gikk verdens lengste skitur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/fcf2d753-817c-4689-a6aa-e82581becbb4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/fcf2d753-817c-4689-a6aa-e82581becbb4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:25:10</itunes:duration>
+      <pubDate>Fri, 16 Apr 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Historier om Grete Waitz </title>
+      <description><![CDATA[Dette er en maratonepisode til minne om Grete Waitz, som døde for 10 år siden. Jack Waitz er gjest og forteller historier fra Gretes liv og konkurranser. Gretes løpekarriere inneholdt store oppturer, skader, enorme forventninger og nedturer. Vi får et unikt innblikk i hvordan det egentlig var.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/2d2a3f27-4d3e-4ab4-94ab-05f17bf6475e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/2d2a3f27-4d3e-4ab4-94ab-05f17bf6475e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:09:29</itunes:duration>
+      <pubDate>Fri, 23 Apr 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Øktplanlegging og terskel  </title>
+      <description><![CDATA[Fagansvarlig for utholdenhet i Olympiatoppen, Thomas Losnegard, er tilbake for å lære oss litt om planlegging, gjennomføring og evaluering av treningsøkter. I tillegg tar vi opp temaet terskeltrening med eksperten. Hva er egentlig terskel?
+Kristian har snudd litt på treningsopplegget sitt, Jann har kjøpt seg piggsko og vi får et lytterspørsmål fra en som har gjort en ekstremt god jobb det siste halve året.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/93e9e54a-35b8-4c87-af68-91c45960d88e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/93e9e54a-35b8-4c87-af68-91c45960d88e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:24:06</itunes:duration>
+      <pubDate>Fri, 30 Apr 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Løpenasjonen Japan </title>
+      <description><![CDATA[Vi har lenge vært imponert over populariteten og nivået på langdistanse i OL-landet Japan. Nå forteller ekspert Brett Larner, som har bodd 21 år i Tokyo, oss hvorfor det er blitt sånn og hvordan det japanske systemet fungerer. Hør mer om historien, stafettene som kalles Ekiden, tv-dekning, skolelagene, omfanget av sponsorlag, OL og værforhold, Covid-19 og selvfølgelig trening.
+Vi har også snakket med Karoline Bjerkeli Grøvdal som løp under verdensrekorden på 5 km. Både hun og treneren forklarer hvordan alternativ trening gjør at hun løper mindre enn noen gang, men er i sitt livs form.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/e23e0ec7-80a3-4855-b2ba-2be5adabe3a1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/e23e0ec7-80a3-4855-b2ba-2be5adabe3a1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:54:23</itunes:duration>
+      <pubDate>Fri, 07 May 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kirsten Marathon Melkevik  </title>
+      <description><![CDATA[33 år gammel ble tobarnsmoren Kirsten Marathon Melkevik med en nabo på løpetur. To år senere løp hun maraton i VM. Eventyret endte med personlig rekord på 2.29.12, OL-deltakelse og Marathon som mellomnavn. Hør den utrolige historien og treningen som lå bak kometkarrieren.
+Kristian og Jann diskuterer 10 000-meteren til Grøvdal og Johaug. Og ivrige langrennsløpere som dunker til med knallharde baneintervaller får kritikk tilført en dose humor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/038e56d4-504c-446d-b0f5-b498e6e84381_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/038e56d4-504c-446d-b0f5-b498e6e84381_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:29:44</itunes:duration>
+      <pubDate>Fri, 14 May 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Hinderkongen</title>
+      <description><![CDATA[Jim Svenøy tok medalje i EM, ble nummer sju i VM, åtte i OL, vant 12 NM på rad og har fortsatt norgesrekorden på 3000 meter hinder. Hva gjorde Svenøy så god i den krevende øvelsen? Vi får høre om en spennende løpekarriere med base i utlandet. Vi kommer inn på de største oppturene, skadene, maratonforsøk, treningen med Rodal og trening i Kenya med treneren til Kipchoge. Og vi diskuterer selvfølgelig trening før og nå. I dag bor nemlig Svenøy i Toronto og trener selv løpere på ulike nivåer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/ad564168-f18f-41a1-9c48-011b3c0abdff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/ad564168-f18f-41a1-9c48-011b3c0abdff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:32:04</itunes:duration>
+      <pubDate>Fri, 21 May 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Morten Gamst Pedersen </title>
+      <description><![CDATA[Hvor viktig er god utholdenhet i fotball? Etter å ha spilt over 10 år i Premier League gir Morten Gamst Pedersen oss sitt svar. Vi får vite hvordan han har trent fysisk i Tromsø, Blackburn, under et kort opphold i Tyrkia og i Rosenborg. Vi får høre om 4x4, intervaller med og uten ball, knallharde sydenturer, egentrening, beep-tester, maksimalt oksygenopptak og 3000-meter. Og hvor mye får man egentlig i bot hvis man møter opp i for dårlig form etter sommerferien i Blackburn?
+I tillegg har vi snakket med to av Norges mest lovende unge løpere, Andreas Fjeld Halvorsen og Tobias Grønstad, Trine Mjåland etter comebacket og Per Halle Invitational-vinnerne Amalie Sæten og Magnus Tuv Myhre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/13f20586-22ed-4a32-a5a3-b0ce8adf338a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/13f20586-22ed-4a32-a5a3-b0ce8adf338a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:35:34</itunes:duration>
+      <pubDate>Fri, 28 May 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fra mosjonistdebut til OL på tre år </title>
+      <description><![CDATA[For tre år siden var Carolina Wikström en medisinstudent som trente et par ganger i uken for å komme i form etter en backpacker-tur. Det førte til at hun meldte seg på Stockholm Marathon i 2018 og debuterte på 3.11. Nå er hun eneste svenske som er tatt ut til OL på maraton etter å ha løpt på 2.26. Hør hovedpersonen selv fortelle den utrolig historien og få svarene på hvordan hun har trent underveis. 
+Kristian og Jann diskuterer stort og smått i norsk og internasjonal løping før Kristian drar på 7-ukers treningssamling.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/0add69b1-14ab-4ea6-8623-4ac0cdd649d5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/0add69b1-14ab-4ea6-8623-4ac0cdd649d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:21:10</itunes:duration>
+      <pubDate>Fri, 04 Jun 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Are Nakkim  </title>
+      <description><![CDATA[I 29 år hadde Are Nakkim den norske rekorden på 10 000 meter. Sommeren syklet han til Bislett, løp på 27.32 og syklet hjem igjen. Bak hans prestasjoner lå et enkelt men tøft treningsprogram. Dessverre endte karrieren da hjerteproblemene fikk overtaket. 
+Jann har snakket med Karoline Bjerkeli Grøvdal, Narve Gilje Nordås og Gjert Ingebrigtsen. Mens Kristian har dratt til italiensk tynnluft.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/7461ed0b-d310-493f-9bd1-c1235de42cb2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/7461ed0b-d310-493f-9bd1-c1235de42cb2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:25:44</itunes:duration>
+      <pubDate>Fri, 11 Jun 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Når hjertet stanser </title>
+      <description><![CDATA[I januar stoppet hjertet til supermosjonist og trebarnsfar Lars Christian Tvedt (44) i skiløypa i Lillomarka. Heldigvis sørget rask hjelp for at det gikk bra. I denne episoden forteller Lars Christian om hva som skjedde og tiden etterpå sammen med Petter Jørgensen, som var med på treningsøkten og var en av mange som reddet et liv denne dagen.
+Løpelegen Anders Heen kommer på besøk for å forklare mer rundt hva man kan gjøre for å hjelpe og at vi ikke skal være redde for å trene.
+Sondre Nordstad Moen snakker om sin maratontrening før OL og Kristian og Jann diskuterer en amerikansk dopingsak.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/5856a255-5be1-4c9c-9f73-0061d63ce8b6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/5856a255-5be1-4c9c-9f73-0061d63ce8b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:45:30</itunes:duration>
+      <pubDate>Fri, 18 Jun 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Norge på langs </title>
+      <description><![CDATA[Simen Holvik (44) startet å løpe i slutten av 30-årene, og da kona døde for to år siden fikk han en trang til å løpe enda lenger enn før. 1.juli starter Simen å løpe fra Nordkapp til Lindesnes. Målet er under 30 dager, det vil si å slå nåværende rekord med over 12 dager. Hvordan i all verden finner man på et sånn prosjekt, og hva skal til for å lykkes? 
+Til uken starter også et av Norges villeste løp noensinne, Oslo-Bergen Trail. Vi har snakket med arrangør Mona Kjeldsberg.
+Kristian og Jann gleder seg til Bislett Games, og Kristian kommer med sine spådommer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/14c36278-28db-4a89-8ecb-4b06f76f7b60_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/14c36278-28db-4a89-8ecb-4b06f76f7b60_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:58:16</itunes:duration>
+      <pubDate>Fri, 25 Jun 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Spiseforstyrrelser </title>
+      <description><![CDATA[Et par kommentarer i tenårene gjorde at Kristin Roset begynte å slanke seg. Det var starten på en løpekarriere som på tross av flere NM-gull var sterkt preget av spiseforstyrrelser. Til slutt ble hun tvunget til å legge opp. Men problemene med mat fortsatte. Heldigvis fikk hun hjelp til å komme seg i riktig retning igjen. I dag er hun tobarnsmor og forteller oss sin historie.
+Ernæringsfysiolog Ingvill Måkestad Bovim jobber med denne problemstillingen hver uke, og forteller hvor og hvordan man kan søke hjelp.
+Kristian og Jann diskuterer de norske mulighetene på distansene fra 800 og oppover i OL. Og plutselig var Narve Gilje Nordås på tråden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/646abcff-83dd-438d-91bb-35c75b8f496c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/646abcff-83dd-438d-91bb-35c75b8f496c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:49:53</itunes:duration>
+      <pubDate>Fri, 02 Jul 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Carl Fredrik Hagen</title>
+      <description><![CDATA[Ingen nordmenn har gjort det bedre i et treukersritt enn Carl Fredrik Hagen, som ble nummer åtte i Vuelta a España for to år siden. Hvordan trener en av Norges mest treningsglade personer for å hevde seg blant verdens beste syklister dag etter dag? Og hvordan trener han seg opp etter vårens meget stygge uhell? Her er det mye inspirasjon å hente.
+Kristian og Jann diskuterer Bislett Games, og vi får høre fra Ferdinand Kvam Edman etter gjennombruddet. Simen Holvik har startet turen fra Nordkapp til Lindesnes, og vi får en løpende rapport.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/7cb0cbe3-ce63-492b-a14d-3fb93ae7b469_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/7cb0cbe3-ce63-492b-a14d-3fb93ae7b469_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:03:00</itunes:duration>
+      <pubDate>Fri, 09 Jul 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Oksygenopptak</title>
+      <description><![CDATA[Hva har vårt maksimale oksygenopptak å si for vår prestasjon? Og hvordan påvirker vi det best gjennom trening? Vi lærer av professor Jostein Hallén på Norges Idrettshøgskole og hører med landets beste løpemiljøer hvor mye fokus de har på dette.
+Kristian og Jann diskuterer stevnet i Monaco, en skuffet Lovisa Lindh, Toni Arndt forteller hva som er på gang på skoregelfronten, Simen Holvik kommer med en rapport fra midt mellom Nordkapp og Lindesnes, og en av vinnerne av Oslo-Bergen trail blir ringt opp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/8b255d2f-21f2-4ee6-af79-08bf72449bab_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/8b255d2f-21f2-4ee6-af79-08bf72449bab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:00:56</itunes:duration>
+      <pubDate>Fri, 16 Jul 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Maratonhistorien</title>
+      <description><![CDATA[Det er gått 125 år siden maraton ble tatt inn som en øvelse under de første moderne olympiske leker i Athen. Thor Gotaas er tilbake og forteller om både opprinnelsen og veien videre. Vi er innom både de store linjene og anekdoter fra enkeltløp. Ingen forteller historier som Gotaas, og her er den meget løpsinteresserte forfatteren i sitt ess.
+Vi møter også amerikaneren Josh Stinton som skal løpe et maraton i luften over Lysefjorden.
+Og Simen Holvik løper videre sørover på sin vei fra Nordkapp til Lindesnes. Vi får en telefonrapport.
+I tillegg diskuterer Kristian og Jann stort og smått som opptar dem rett før OL starter i Tokyo.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/a899e2e0-9b80-4a90-adf6-e595a846712a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/a899e2e0-9b80-4a90-adf6-e595a846712a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:07:54</itunes:duration>
+      <pubDate>Fri, 23 Jul 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Rodals OL-gull  </title>
+      <description><![CDATA[Det er gått 25 år siden Vebjørn Rodals OL-gull. Ved hjelp av Rodal selv og NRK-arkivet får vi vite det meste om idrettsøyeblikket i Atlanta.
+Vi diskuterer selvsagt seieren til Kristian Blummenfelt. I tillegg løp Jann 0,4 % av distansen Nordkapp-Lindesnes med Simen Holvik noen dager før målgang i Norge på langs. Kristian er tilbake i Norge og Jann blir med han og Sondre Nordstad Moen på siste økt før avreise Japan. Moen deler sin plan de siste to ukene før maraton i OL. Og Kristian og Jann tipper OL-vinnere i friidrett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/dbe4f2ac-8825-45ca-bac2-292f9ee72770_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/dbe4f2ac-8825-45ca-bac2-292f9ee72770_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:14:35</itunes:duration>
+      <pubDate>Fri, 30 Jul 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Langturen </title>
+      <description><![CDATA[Veldig mange har en langtur med i sitt ukentlig treningsprogram. Vi prøver å finne ut av hvor lang og hvor rask den bør være. Mange i Norges beste løpemiljøer deler sin erfaring, og professor Jostein Hallén ved Norges Idrettshøgskole gir oss nærmere innsikt.
+Jann har kommentert gullet til Karsten Warholm på OL-stadion i Tokyo rett før innspilling og er litt preget. Kristian har løpt sitt første løp på over ett år.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/3b60652e-ccf8-4d22-b343-c84b98aeb01d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/3b60652e-ccf8-4d22-b343-c84b98aeb01d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:35:14</itunes:duration>
+      <pubDate>Fri, 06 Aug 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>OL-opplevelsen  </title>
+      <description><![CDATA[Narve Gilje Nordås hadde aldri løpt et stort mesterskap da han sjekket inn på rom med Filip og Jakob Ingebrigtsen i OL-landsbyen. I denne episoden forteller han om sin OL-opplevelse fra han kvalifiserte seg til han kom hjem.
+Kristian og Jann diskuterer OL-gullet til Jakob Ingebrigtsen og hvem som hadde vunnet en 800 meter av han og Warholm. Kristian begynner en ærlig evaluering av Sondre Nordstad Moen sin maratoninnsats og tar i bruk noen nordnorske kraftgloser om en annen maratondeltaker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/32aa7090-df51-42ff-9a65-37d557e97208_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/32aa7090-df51-42ff-9a65-37d557e97208_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:36:12</itunes:duration>
+      <pubDate>Fri, 13 Aug 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Vinneren av Norseman  </title>
+      <description><![CDATA[Julie Aspesletten vant Norseman etter å ha drevet med triatlon i to år. Hvordan er det mulig å vinne en så krevende konkurranse (3,8 km svøm, 180 km kupert sykling og maraton opp til Gaustatoppen) etter så kort tid. Vi fant ut at 1000 timer trening i året og en uredd tilnærming var noe av årsaken etter å ha tatt en lang prat med den tidligere håndballspilleren.
+Kristian står ovenfor siste mulighet for å kvalifisere seg til NM, og Jann sliter med å komme i gang etter OL.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/76964632-6d85-469e-9707-3bda378cd566_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/76964632-6d85-469e-9707-3bda378cd566_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:35:01</itunes:duration>
+      <pubDate>Fri, 20 Aug 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Den nye dopingtesten </title>
+      <description><![CDATA[Fra 1.september kommer det en ny måte å dopingteste utøvere på. Norske Sara Solheim er tidligere løper, jobber for Antidoping Danmark og har en doktorgrad i den nye testmetoden DBS (dried blood spots).
+Hun forteller oss om muligheten for å teste mange på kort tid, enklere frakt av prøver og lavere kostnader. Hvor mye vil dette bety for antidopingarbeidet i verden? Testen vil også dukke opp på norske treningssentre.
+Kristian og Jann diskuterer familien Ingebrigtsens innsats i Eugene og har fått tak i intervjuer med Jakob, Filip og Gjert Ingebrigtsen. OL-helten Sifan Hassan dukker opp. Og har du hørt om triatleten Jarle Wermskog, som med brukket arm vant klassen sin Ironman København og bare ble slått av en proff på maratondelen? Han har vi snakket med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/cdd3ab6d-2902-4914-bd01-54b2b6adace1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/cdd3ab6d-2902-4914-bd01-54b2b6adace1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:36:14</itunes:duration>
+      <pubDate>Fri, 27 Aug 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Norges fjellkonge  </title>
+      <description><![CDATA[Stian Angermund har gått fra å være en middels skiskytter, som fikk juling av Emil Hegle Svendsen, til å bli en av verdens beste fjelløpere. I år er han i sitt livs form og vinner gang på gang. Vi får forklaringen på hans fremganger, et innblikk i hvordan han trener og gode treningsråd for de som vil bli bedre i terrenget.
+Kristian løper 10 000-meter på Bislett i et forsøk på å kvalifisere seg til NM. Jann følger løpet fra tribunen sammen med Sondre Nordstad Moen.
+I tillegg diskuterer vi et par nye verdensrekorder, motbakke-NM, Sentrumsløpet, Blummenfelts innsats på halvmaraton i Bergen og familien Ingebrigtsens nye familierekord på halvmaraton.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/4e67bf59-8a53-4f49-b884-e6b969379d99_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/4e67bf59-8a53-4f49-b884-e6b969379d99_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:57:40</itunes:duration>
+      <pubDate>Fri, 03 Sep 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ferdinand Kvan Edman  </title>
+      <description><![CDATA[Bak våre største løpestjerner er det mange som har vist fremgang i år. Langt framme i dine rekka finner vi Ferdinand Kvan Edman som etter årevis med tøff satsing endelig har slått legendariske klubbrekorder. Hvorfor har det løsnet nå? Hvordan trente han under den amerikanske helten Johnny Gray, når alt skar seg? Og hvordan trener han nå?
+Jann og Kristian diskuterer rekorder, Birken, Diamond League, NM-forberedelser og ultra. Karoline Bjerkeli Grøvdal og Anne Margrethe Hausken Nordberg blir intervjuet om siste ukes prestasjoner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/f0c03048-8f48-4804-98bc-44cdc659fc74_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/f0c03048-8f48-4804-98bc-44cdc659fc74_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:05:11</itunes:duration>
+      <pubDate>Fri, 10 Sep 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>NM-helter, trening og graviditet </title>
+      <description><![CDATA[I helgen gjorde tobarnsmor Trine Mjåland comeback i NM med stor suksess. Vi fant ut hva som ligger bak comebacket.
+I 2016 løp Mjåland semifinale i EM fem måneder etter fødsel. Vannet gikk på tredemøllen, hun løp fem dager etter fødsel, var med i NM to måneder etter sønnen kom til verden. Hvordan var det mulig, og hadde hun det litt for travelt?
+Vi har snakket med de olympiske mesterne Jakob Ingebrigtsen og Karsten Warholm om hvem av dem som er best på 800 m, Jakobs OL-oppladning og Karstens utholdenhetstrening. Og hvordan gikk det egentlig med Kristian i NM?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/7f9358b8-e810-4932-835f-55e073d74510_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/7f9358b8-e810-4932-835f-55e073d74510_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:00:43</itunes:duration>
+      <pubDate>Fri, 17 Sep 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mosjonister i fremgang </title>
+      <description><![CDATA[Kristoffer Ingebrigtsen er blitt en nesten like ivrig løper som sine kjente yngre brødre. Selv med et hus under oppussing, to små barn og full jobb har han klart å endre livsstil. Med Henrik Ingebrigtsen som trener har han fått enorm fremgang i 2021 og løper nå halvmaraton på 1.20. Her får du innføringen i Ingebrigtsen-trening i mosjonistversjon.
+Kathrine Vandraas har blitt et halvt minutt raskere på kilometeren i år takket være mer strukturert trening. Denne helgen løper hun sin første maraton. Hør hennes løpehistorie og tipsene hun får av Jann før maratondebuten.
+Vi byr på et intervju med Stewart McSweyn og diskuterer Oslo Maraton, København halvmaraton, Kristians nye trenerrolle og mye mer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/e10a9a95-4b09-45e1-8bbb-4fd18b3f5970_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/e10a9a95-4b09-45e1-8bbb-4fd18b3f5970_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:20:43</itunes:duration>
+      <pubDate>Fri, 24 Sep 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bør kvinner trene likt som menn?</title>
+      <description><![CDATA[Det siste året har banesyklist Anita Stenberg lagt opp treningen sin etter menstruasjonssyklusen. Det førte til fremgang på tester og 5.plass i OL. Her forteller hun om endringene i treningsopplegget og hvilke erfaringer det har gitt henne.
+Knut Jæger Hansen har trent mange av Norges beste kvinnelige løpere i en årrekke og er blant annet ekstremt opptatt av hvordan kvinnelige løpere bør tas gjennom tenårene.
+Fortsatt vet verden for lite om hvordan prestasjonsevnen påvirkes av menstruasjonssyklusen og prevensjonsmidler som påvirker hormoner. Det prøver forskerne i FENDURA-prosjektet å gjøre noe med. Vi har snakket med Hanne Staff og Tina Pettersen Engseth om aktuelle problemstillinger.
+Kristian har brutt en magisk grense, vi har tatt en løpeprat med Therese Johaug, og Kathrine Vandraas har løpt sitt livs første maraton.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/efac3cdb-5f7f-44a6-b01a-1fba4b1b9f7b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/efac3cdb-5f7f-44a6-b01a-1fba4b1b9f7b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:42:21</itunes:duration>
+      <pubDate>Fri, 01 Oct 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Dopingetterforskerne </title>
+      <description><![CDATA[Kine Karsrud og Anders Engen har bakgrunn fra Kripos og etterretning i politiet. Nå jobber de som etterforskere i Antidoping Norge. I denne episoden forteller de om hvordan de jobber, internasjonalt samarbeid og hvordan de er avhengige av tips.
+Kristian løp 5 km under Norgesløpet og Jann var på plass med mikrofonen. Vi snakker med en rekke av Norges beste løpere om hvordan vi bør varme opp før løp. Her er det noen gode tips og ta med seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/ee5f738d-912a-4fc0-85be-295dddf3d021_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/ee5f738d-912a-4fc0-85be-295dddf3d021_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:56:44</itunes:duration>
+      <pubDate>Fri, 08 Oct 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Marius Bakken del 1 </title>
+      <description><![CDATA[Tidligere toppløper Marius Bakken gjester oss i episode nummer 100. Etter at han la opp har han jobbet som lege og hatt lite med løpemiljøet å gjøre. Vi regner han for å være en av de i Norge som har mest kunnskap rundt utholdenhetstrening for løpere. Han er derfor en drømmegjest for oss i denne jubileumsepisoden.
+I første del av intervjuet får dere høre hans tanker om mengde, intensitetsstyring, terskeltrening, puls, laktat, hurtighet- og styrketrening og mye mer. Resten av den interessante praten kommer i neste ukes episode.
+Vi har også fått tak i et intervju med Norges beste kappgjenger, Håvard Haukenes, som nå blir maratonløper. Og vi diskuterer stort og smått fra løpeverden den siste uka.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/326f9460-6583-4744-bf6d-e371ad074367_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/326f9460-6583-4744-bf6d-e371ad074367_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:47:51</itunes:duration>
+      <pubDate>Fri, 15 Oct 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Marius Bakken del 2 </title>
+      <description><![CDATA[Tidligere toppløper og meget kunnskapsrike Marius Bakken forteller videre om treningsfilosofien han eksperimenterte seg fram til. Vi får høre om ekstrem høydetrening i Bolivia, høydehus inne på egen hybel, laktattesting på kenyanske løpere, forsøk på å lage karbonsko, hans eget treningsprogram for mosjonister, hvorfor han sluttet å tøye, hardtreningen han ikke responderte på og hvordan en treningsdagbok fra 70-tallet fikk han tilbake på riktig spor. 
+Karoline Bjerkeli Grøvdal har et par tydelige meldinger til Kristian etter Hytteplanmila. 
+Og vi ringer opp verdens beste orienteringsløper, Kasper Fosser, som satser på å løpe EM i terrengløp i desember. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/34677e37-1705-4e29-ad9a-c875cc334386_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/34677e37-1705-4e29-ad9a-c875cc334386_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:59:18</itunes:duration>
+      <pubDate>Fri, 22 Oct 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sykdom og trening  </title>
+      <description><![CDATA[Løpelegen, Anders Heen, er tilbake for å svare på om vi kan trene når vi er syke. Vi får en innføring i hva som skjer i kroppen ved sykdom, hva vi risikerer ved å trene, når vi kan begynne å trene igjen og hvordan vi bør trappe opp belastningen.
+Runa Skrove Falch og Sondre Nordstad Moen var begge syke i oppkjøringen til sine gode løp i helgen som var, vi får høre hvordan de løste det treningsmessig.
+Kristian lanserer en ny spalte og vi diskuterer ulike rekorder fra det store utland og treningen til Kristoffer Ingebrigtsen etter at han forbedret ytterligere fem minutter på halvmaraton.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/ceaa2206-b767-435f-bdc4-0915f2f38d48_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/ceaa2206-b767-435f-bdc4-0915f2f38d48_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:15:22</itunes:duration>
+      <pubDate>Fri, 29 Oct 2021 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Marit Bjørgen  </title>
+      <description><![CDATA[Hva gjorde Marit Bjørgen på trening for å bli tidenes beste vinterolympier? Hun røper litt i sin nye bok og denne uken fikk Jann anledning til å møte Bjørgen selv. Vi får høre om den allsidige treningen som barn ved siden av gårdsarbeidet, bolketreningen med opp til 15 hardøkter på 11 dager som fikk henne til verdenstoppen på distanse og gjorde 4x4 min til en superpopulære økt, hvordan den samme treningen gjorde at hun gikk rett i veggen og fikk flere svake sesonger, snuoperasjonen med en helt annen treningsfilosofi som gjorde henne til verdens beste langrennsløper i en årrekke, treningen under og etter graviditet og hvordan hun nå trener 10-15 timer i uka for å vinne langløp.
+Kristian er med fra løpelandet Kenya og forteller om sitt nye mål. Og Jann evaluerer treningen sin før helgens Barcelona Marathon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/65f897de-572c-4157-b369-94b6c8fcd8aa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/65f897de-572c-4157-b369-94b6c8fcd8aa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:21:09</itunes:duration>
+      <pubDate>Fri, 05 Nov 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mosjonisten som ble norgesmester</title>
+      <description><![CDATA[For litt over ett år siden oppsøkte Mathilde Theisen en organisert løpetrening for første gang i sitt liv i en alder av 27 år. Nå er hun blitt norsk mester i terrengløp, tatt NM-sølv på 10 000 meter og bronse i nordisk mesterskap.
+Hør den helt utrolige gjennombruddshistorien om kvinnen som gikk fra å løpe en gang i halvåret til å bli et EM-håp. Vi får høre hva hun har gjort på trening, hvor mye hun løper, hvordan hun økt treningsmengden gradvis og hvordan hun håper å utvikle seg videre.
+Jann har løpt sin første maraton på to år i Barcelona og traff et par nordmenn på sin vei. Kristian feller dommen over innsatsen fra sin treningsleir i Kenya.
+Og vi har fått intervjuer med de norske løperne som tok medaljer i nordisk mesterskap i terrengløp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/fb37f07d-c24e-4046-8054-9a0e04f85814_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/fb37f07d-c24e-4046-8054-9a0e04f85814_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:59:31</itunes:duration>
+      <pubDate>Fri, 12 Nov 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ultrakongen Taranger</title>
+      <description><![CDATA[I slutten av 20-årene veide rocketrommis Bjørn Tore Kronen Taranger 108 kg og fikk beskjed av farmoren sin om å skjerpe seg. Han startet å løpe tre kilometer noen ganger i uken. Noen år senere satte han verdensrekord på 24-timersløp på tredemølle. I helgen løper han for å slå sin norske døgnrekord på Bislett. Vi får høre alt om forvandlingen og treningen han nå legger ned.
+Vi har fått tak intervjuer med et av Norges største løpstalenter,  Ingeborg Østgård, og hennes trener.
+Kristian er høyt oppe etter å ha løpt maraton på 2.27 som en hard langtur. Og vi har fått tilsendt nye parodier.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/40dcb2a5-1ec1-4c25-9fca-13e57f31d4d1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/40dcb2a5-1ec1-4c25-9fca-13e57f31d4d1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:02:19</itunes:duration>
+      <pubDate>Fri, 19 Nov 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>OL-vinneren om vekt </title>
+      <description><![CDATA[Jørgen Graabak mener man må snakke like åpent om vekt som andre ting i toppidretten. I denne episoden snakker vi om hvordan våre beste kombinertløpere forholder seg til dette. OL-vinneren fra 2014 mener optimalisering av vekt er en naturlig del av toppidretten, men bare på aller øverste nivå.
+Vi snakker selvsagt også om trening. Hvordan er det å kombinere utholdenhetstrening, med spenst, hurtighet og teknikk? Hva må velges bort?
+Therese Falk forteller om europarekorden på 24-timer. Allan Hovda som vant herreklassen på ny rekord blir intervjuet fra sykehussenga. Og forrige ukes gjest Taranger fikk Covid, men rakk akkurat løpet.
+Kristian og Jann diskuterer Kristian Blummenfelts Ironman-debut, ny verdensrekord på halvmaraton, julekalender og har igjen blitt parodiert av Vidar Higraff.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/df7c0979-c40e-44c0-af69-22bf1c058231_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/df7c0979-c40e-44c0-af69-22bf1c058231_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:35:20</itunes:duration>
+      <pubDate>Fri, 26 Nov 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Hedda Hynne</title>
+      <description><![CDATA[Norges beste kvinnelige 800 meter-løper noensinne, Hedda Hynne, forteller sin utrolige idrettshistorie. På kort tid gikk hun fra å hate løping til å bli norsk mester. Fra å måtte stoppe etter 800 meter jogg til å løpe distansen blant de raskeste i verden.
+Men selv ikke denne suksessen har kommet uten noen humper i verden. Hynne forteller åpent om nedturen da hun valgte å ikke starte i EM i 2018. Og hvordan egentlig stemningen på kammerset når både utøver og trener er skuffet, og treneren også er samboeren din?
+Kristian forteller om de siste forberedelsene før han og Sondre Nordstad Moen skal løpe maraton i Valencia til helgen. Og Jann har fått hjelp av parodimester Vidar Higraff til å lage en forhåndsreportasje.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/cde4eb36-fcf2-4e6b-895e-091c8ee88c2f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/cde4eb36-fcf2-4e6b-895e-091c8ee88c2f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:16:09</itunes:duration>
+      <pubDate>Fri, 03 Dec 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Gjert Ingebrigtsen</title>
+      <description><![CDATA[Sønnene har bevist at Gjert Ingebrigtsens treningsopplegg holder høyeste standard. I denne episoden snakker sjefen selv om «Gjerts metode», som han nå også har gitt ut bok om. Struktur, mål, planlegging, gjennomføring og evaluering er viktige momenter. Og selvfølgelig diskuterer vi litt trening, og hva vi kan forvente av Jakob og Filip i EM-terrengløp.
+Karoline Bjerkeli Grøvdal gir en rapport om treningsleiren i Flagstaff og mulighetene i EM til helgen.
+Kristian setter ord på maratonnedturen i Valencia slik bare han kan, og vi diskuterer stort og smått fra den siste uka i løpeverden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/9214ab30-a653-42a1-bb2f-8be72d9463bd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/9214ab30-a653-42a1-bb2f-8be72d9463bd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:01:07</itunes:duration>
+      <pubDate>Fri, 10 Dec 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Professor og praktiker </title>
+      <description><![CDATA[Øyvind Sandbakk er av de fremste på toppidrettsforskning i Norge. I tillegg er han tett på noen av Norges beste utholdenhetsmiljøer i det daglige. Jann tok en real treningsprat med den kunnskapsrike professoren. Et av målene var å finne ut hvordan han selv trente når han forbedret seg enormt og løp 32 minutter på mila på begrenset treningsmengde tidligere i år.
+Vi diskuterer den norske suksessen i EM i terrengløp og ringer Karoline Bjerkeli Grøvdal som forteller om gulløpet i Dublin.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/d10d4551-0663-4172-9833-dc68a65a4eb2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/d10d4551-0663-4172-9833-dc68a65a4eb2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:11:28</itunes:duration>
+      <pubDate>Fri, 17 Dec 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Paavo Nurmi og julesang </title>
+      <description><![CDATA[Thor Gotaas er tilbake og gir oss en historietime om en av de beste langdistanseløperne gjennom tidene, den finske legenden Paavo Nurmi. Med 9 OL-gull og 22 offisielle verdensrekorden var Nurmi noe for seg selv. Vi får høre om en beinhard oppvekst, utvikling av trening og stadige utfordringer i jakten på fremgang. Gotaas fortellerkunster og Nurmis unike historie er god underholdning over 100 år etter hans gjennombrudd.
+Vår kjære bidragsyter på parodier, Vidar Higraff, har overgått seg selv med en julesang. Med musikalsk hjelp av Kristoffer Unstad har han skapt låten «Laktat i svingen». Mange av «I det lange løp» sine kjente stemmer har gitt sitt bidrag.
+Kristian har rømt alene til syden i jula og Jann sliter med julekalenderen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/e3f6c6d3-d6af-410f-a647-64383f943249_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/e3f6c6d3-d6af-410f-a647-64383f943249_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:00:50</itunes:duration>
+      <pubDate>Fri, 24 Dec 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Drømmen om Spartathlon </title>
+      <description><![CDATA[Det beinharde løpet Spartathlon på 246 km var lenge Magnus Thoruds store mål. I 2021 fikk han endelig prøve seg. I denne episoden forteller han om hele opplevelsen i Hellas. Drama før start, tidsfrister, ekstrem varme, geitestier i fjellet om natten, løshunder, matutfordringer og gleden en statue av en gammel konge kan gi. Thorud fikk sin drøm oppfylt, vi håper det inspirerer deg til å sette deg store mål for 2022.
+Jakob og Gjert Ingebrigtsen snakker om årets høydepunkt, OL-gullet i Tokyo.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/932093dc-f845-486c-b6a2-5ef9163090fa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/932093dc-f845-486c-b6a2-5ef9163090fa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:05:41</itunes:duration>
+      <pubDate>Fri, 31 Dec 2021 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Koffein</title>
+      <description><![CDATA[Hjelper koffein på prestasjon i utholdenhet? Når og hvordan bør det i så fall brukes? Og er kunstig stimuli etisk riktig? Vi tok kontakt med britenes landslagstrener i langrenn, Hans Kristian Stadheim, som har doktorgrad på området. Vi lærte mye.
+Kristian er over seg etter å smelt i gang sesongen med pers på selveste nyttårsaften og blir bedt om å vurdere tre priser på Idrettsgallaen. Jann er litt lengre nede i covid-isolasjon i Tyskland, men får opp humøret når Vidar Higraff har sendt han en ny miniepisode i parodiform.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/02452126-94ca-4ebd-a3d8-3ee0fc02ec9e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/02452126-94ca-4ebd-a3d8-3ee0fc02ec9e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:51:29</itunes:duration>
+      <pubDate>Fri, 07 Jan 2022 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fra prestasjonsangst til VM-suksess</title>
+      <description><![CDATA[For noen år siden slet orienteringsløper Andrine Benjaminsen med så sterk prestasjonsangst at det gjorde det svært vanskelig å få ut det hun var god for i viktige løp. I denne episoden forteller hun hvordan hun taklet det, hvordan hun fant igjen konkurransegleden fra barneårene og hvordan hun nå takler store mesterskap.
+Vi får også innblikk i hvordan hun har skiftet treningsfilosofi, og tok VM-og EM-medaljer etter å ha trent mye mindre enn før.
+Kristian slikker sårene etter et ødelagt løp i Valencia. Karoline Bjerkeli Grøvdal forteller om kanonløpet samme sted. Og Jann er fortsatt i tysk isolasjon.
+
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/f4c6a256-6cff-4db7-b137-4cd44fb77c1c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/f4c6a256-6cff-4db7-b137-4cd44fb77c1c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:54:31</itunes:duration>
+      <pubDate>Fri, 14 Jan 2022 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Trening etter covid-19</title>
+      <description><![CDATA[Hvordan bør man komme seg tilbake til full trening etter covid-19? Det er det store spørsmålet for Jann etter isolasjonen i Tyskland. Han tar derfor kontakt med Martin Løwstrøm Nyenget, som etter 19 dager i isolasjon i Italia gjorde mye riktig i perioden etter sykdommen. Drøye to måneder senere var han på pallen i verdenscupen i langrenn. Han forteller hvordan han klarte det.
+Løpelegen, Anders Heen, er tilbake og gir sine gode råd. Nå også med fersk egenerfaring.
+Vi har fått tak i treningsuka til Stewart McSweyn, en av Ingebrigtsen-guttas hardeste konkurrenter. Vi diskuterer forskjeller og likheter.
+Vidar Higraff er tilbake med sine parodier. Denne gangen er høydetrening tema når hele seks personer blir parodiert i en miniepisode.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/bf058911-6514-45aa-b2d2-5747b0f79dc8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/bf058911-6514-45aa-b2d2-5747b0f79dc8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:02:07</itunes:duration>
+      <pubDate>Fri, 21 Jan 2022 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Maratontrening</title>
+      <description><![CDATA[Danske Thijs Nijhuis hadde et stort 2021 med deltakelse i OL, giftemål med norske Julie og ensom ledelse i New York Marathon. I denne episoden forteller han om løpsopplevelsene og hvordan han gikk fra et greit nivå på 5000m og 10 000 m til å bli OL-utøver på maraton. Nijhuis har tydeligvis knekt en kode når det kommer til maratonspesifikk trening. Og vi får vite hva han gjør.
+Kristian kjemper videre mot Sevilla Marathon og har hyret inn Jann som sparringspartner på den siste treningen. På slutten av episoden får spesielt interesserte høre hvordan de to legger en 5-ukersplan.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/bf432697-821d-4cca-87cb-001ec60622f9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/bf432697-821d-4cca-87cb-001ec60622f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:14:56</itunes:duration>
+      <pubDate>Fri, 28 Jan 2022 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>OL-helten Joan Benoit Samuelson</title>
+      <description><![CDATA[I 1984 opplevde Joan Benoit Samuelson den olympiske drømmen. Hun vant kvinnenes første OL-maraton på hjemmebane i Los Angeles foran Grete Waitz. I denne episoden forteller hun om sitt livs løp, kneoperasjonen i forkant, sin egen trening, hvordan det var å vokse opp som kvinnelig løper på 70-tallet og ambisjonene som veteranløper.
+Vi spør Antidoping Norge hva mosjonister må passe seg for å unngå å teste positivt på en dopingprøve ved et uhell.
+Vidar Higraff har lagd en hyllest til Kristian med hjelp av dine parodier.
+Og Kristian og Jann planlegger en ny uke av Kristians maratontrening.
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/a1005401-cec3-491c-bc48-6cbc3d24ee8a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/a1005401-cec3-491c-bc48-6cbc3d24ee8a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:06:39</itunes:duration>
+      <pubDate>Fri, 04 Feb 2022 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Toppidrett med ulcerøs kolitt</title>
+      <description><![CDATA[Jacob Boutera har gått fra å være fotballspiller til norgestoppen på rekordtid. I fjor var han 4 sekunder fra OL-kravet på 3000 meter hinder. Dette har han klart selv om han har sykdommen ulcerøs kolitt. Noe han lenge holdt skjult. I denne episoden forteller han om treningen bak fremgangen, sykdommen som plager han, kombinasjonen toppidrett og studier, og fremtidsambisjonene. Kristian og Jann diskuterer stort og smått fra hvert sitt land, Portugal og Kina.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/9a625602-ee1d-401e-ba39-d98818cd7b99_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/9a625602-ee1d-401e-ba39-d98818cd7b99_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:39:07</itunes:duration>
+      <pubDate>Fri, 11 Feb 2022 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Trening i Kenya</title>
+      <description><![CDATA[Europarekordholder på 10 km og halvmaraton, Julian Wanders fra Sveits, flyttet til Kenya som tenåring. Norges beste orienteringsløper Andrine Benjaminsen dro til samme land for første gang i januar. Og også norske supermosjonister som Fredrik Schwenke har dratt til løpelandet for å trene. Vi har snakket med alle tre.
+Kristian forteller om de siste øktene før søndagens maraton i Sevilla. Parodiekspert Vidar Higraff har lagd sitt eget OL-studio med mye kjentfolk. Og Jann fryser bort i Kina.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/8911ad39-50ff-4f76-8a58-cc4a4e96e735_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/8911ad39-50ff-4f76-8a58-cc4a4e96e735_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:09:30</itunes:duration>
+      <pubDate>Fri, 18 Feb 2022 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kor ska vi reis?</title>
+      <description><![CDATA[Med færre covid-restriksjoner er det mulig å drømme litt om heftige løp i utlandet igjen. Janicke Bråthe og Christian Ødgaard har reist verden rundt for å løpe ulike maraton. Her tar vi en grundig reiseprat, diskuterer kjente løp, kommer med ukjente anbefalinger og drar opp ulike erfaringer fra verdens største løp.
+
+Kristian kjører full evalueringsrunde med Jann etter maraton i Sevilla. Vi diskuterer verdensrekorden til Jakob Ingebrigtsen og har fått tak i et intervju med bror Henrik hvor framtidig trenerrolle er tema.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/648cefc3-55e0-4a0b-87d6-a7d65d7c4a00_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/648cefc3-55e0-4a0b-87d6-a7d65d7c4a00_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:22:11</itunes:duration>
+      <pubDate>Fri, 25 Feb 2022 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Treningen til Nils van der Poel</title>
+      <description><![CDATA[#120; 
+Etter to gull og verdensrekord på 10 000 meter i OL la skøyteløper Nils van der Poel ut et dokument på 62 sider om sin treningsfilosofi og hvordan han har trent dag for dag. Professor og toppidrettsforsker Øyvind Sandbakk blir med for å diskutere van der Poels trening. Hvor uvanlig er den? Hva overrasker mest? Og er det noe å lære?
+Kristian er tilbake i Norge og må bestemme seg for hva han skal gjøre fremover. Ukens økt kommer fra treningen til tidligere kappgjenger Håvard Haukenes som er i Kenya for å bli maratonløper.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/f17e6a02-5569-4410-9ab2-14979fceb43f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/f17e6a02-5569-4410-9ab2-14979fceb43f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:11:05</itunes:duration>
+      <pubDate>Fri, 04 Mar 2022 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Toppidrettslege og ultraløper</title>
+      <description><![CDATA[Lege ved Olympiatoppen, Mona Kjeldsberg, løper ekstreme ultraløp i terrenget. Hun har løpt løp på over 300 km med 25 000 høydemeter. Da løper hun til hun hallusinerer og må legge seg rett ned å sove. Vi får vite hvorfor hun løp sitt første ultraløp i godt voksen alder, hvorfor den verdenen er så fascinerende, hva løping gir henne, hvordan hun klarer ville fysiske utfordringer. Og så må vi selvfølgelig spørre legen om hvor sunt dette er? Til slutt røper hun sitt nye store mål, som hun bare har fortalt til mannen sin til nå.
+Kristian har bestemt seg for hvor langt neste løp blir, og han og Jann diskuterer Johaug, Kosgei, Kipchoge, Vasaloppet, Nyenget, ukas økt og en 10 000 meter i USA. 
+Dessuten er Vidar Higraff tilbake. Vi får høre en parodiepisode med en unik kommentatorduell.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/392a93d0-c356-4166-9aaf-18d142facea9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/392a93d0-c356-4166-9aaf-18d142facea9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:27:18</itunes:duration>
+      <pubDate>Fri, 11 Mar 2022 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Vasaloppvinneren</title>
+      <description><![CDATA[Andreas Nygaard fikk sjokk da han møtte opp på trening med brødrene Aukland og co for 7-8 år siden. De trente så hardt at han ble syk etter hver samling. Men hardhausen fra nord, som var best til å spurte og sprinte, tålte galskapen og har utviklet seg til å bli en av verdens beste langløpere på ski. Vi får innblikk i hva han har endret på veien og hva slags trening som ligger bak hans triumfer.
+For ett år siden måtte Didrik Tønseth trekke i nødbremsen. Nå vinner han i verdenscupen. Trønderen forklarer hva som ligger bak snuoperasjonen.
+Til helgen løper Karoline Bjerkeli Grøvdal halvmaraton i New York. Vi får en forhåndsrapport.
+Kristian og Jann diskuterer innendørs-VM, tidenes premiepott i maraton, ukens økt, egen trening og svarer på lytterspørsmål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/382162fd-79ae-4f3b-85ba-59a665b50399_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/382162fd-79ae-4f3b-85ba-59a665b50399_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:20:44</itunes:duration>
+      <pubDate>Fri, 18 Mar 2022 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Stortalentet som la opp</title>
+      <description><![CDATA[Roald Frøskeland var et av Norges største talenter på 800 meter. I 2015 ble han nummer tre på NM på 1500 meter på plassen bak Filip Ingebrigtsen, så la han opp 21 år gammel.
+Uken etter begynte han å sykle og orket ikke en gang se friidrett på tv. Hvorfor gikk det slik?
+I dag lever han et travelt familieliv og trener mot ultraløp med stor treningsglede. I februar var han nære et lite comeback i et internasjonalt terrengløp. Han angrer ikke på at han la opp.
+Jann snakker med Karoline Bjerkeli Grøvdal etter 3.plassen i New York Halvmaraton.
+Og Kristian har endelig bestemt seg for hvor neste maratonforsøk blir og diskuterer innendørs-VM med Jann, som har kommet hjem fra Beograd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/000a6c4b-8af6-4f7a-9bc8-a368b2b67ef8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/000a6c4b-8af6-4f7a-9bc8-a368b2b67ef8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:54:34</itunes:duration>
+      <pubDate>Fri, 25 Mar 2022 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Jarl Magnus Riiber</title>
+      <description><![CDATA[Kombinertstjernen Jarl Magnus Riiber kom til OL som en av mesterskapets største favoritter. Like etter ankomst testet han positivt for covid og ble satt i isolasjon. Dagen før den siste individuelle konkurransen slapp han ut. Så gikk han feil da han ledet og dro hjem. I denne episoden forteller han detaljert om hele opplevelsen. Vi får vite hvordan han trente i isolasjonen, hvordan han fikk tak i en tredemølle og hvordan han fikk kineserne på sin side.
+Etter OL vant Riiber verdenscupen totalt med en langspurt i siste renn. Hør hvordan han trente seg opp etter covid og hvilken treningsfilosofi som har gjort han best i verden.
+Kristian og Jann diskuterer Kristians vei mot Hamburg maraton, ukas økt, lytterspørsmål og hendelser i løpeverden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/86f379cd-567b-419c-a2e9-6a5923b238fa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/86f379cd-567b-419c-a2e9-6a5923b238fa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:55:01</itunes:duration>
+      <pubDate>Fri, 01 Apr 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Emil Zátopek</title>
+      <description><![CDATA[Det er duket for en ny historietime med Thor Gotaas. Denne gangen forteller han om legenden Emil Zátopek som vant 5000m, 10000m og maraton i samme OL. Løpefenomenet satte 18 verdensrekorder og var kjent for sine enorme intervalløkter i all slags vær, og vil for alltid være en av historiens største langdistanseløpere. 
+Sebastian Conrad Håkansson satte norsk rekord på 100 km. Vi ringte han opp like etter løpet. 
+Runa Skrove Falch var nære EM-kravet på maraton i Tyskland og forteller om løpet til Jann.
+Kristian fikk en realitetssjekk i Fredrikstad og er usikker på om 2.19.59 er mulig i vår. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/e8d80b39-4164-406e-ad62-566ab1f31fd5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/e8d80b39-4164-406e-ad62-566ab1f31fd5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:07:02</itunes:duration>
+      <pubDate>Fri, 08 Apr 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fra fotball til maraton i rekordfart</title>
+      <description><![CDATA[Camilla Bønøgård var en så lovende fotballspiller at hun var innom U19-landslaget. Under covid-perioden ble kapteinen til Sarpsborg 08 så glad i løping at hun ga seg med fotballen. I helga løp hun Rotterdam Marathon på 2.47. I denne episoden forteller hun om avskjeden fra fotball, løpeforelskelsen og treningen som ligger bak.
+Parodikongen Vidar Higraff er tilbake og har spilt inn en hel påskelabyrint. Her ringer kjentfolk av I det lange løp inn for å løse geografispørsmål.
+Kristian forteller om den siste harduka før Hamburg Maraton, og diskuterer stort og smått med Jann.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/f3dca83c-ce03-476f-91fa-48512f13dbca_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/f3dca83c-ce03-476f-91fa-48512f13dbca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:30:45</itunes:duration>
+      <pubDate>Fri, 15 Apr 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>En 10000 m, Boston Marathon og utrolige Keira D’Amato</title>
+      <description><![CDATA[- Henrik Ingebrigtsen ville ha en 10 000 meter på Bislett i påsken. Det endte med at tre andre nordmenn tok EM-kravet og en europeisk juniorrekord. Kristian har snakket med de fem første over målstreken.
+- Boston Marathon gikk 2.påskedag. Vi får en Boston-rapport fra nest beste nordmann like etter målgang og prater oss gjennom noen av de store snakkisene etter løpet.
+- 37 år gamle Keira D’Amato er tobarnsmor, jobber som eiendomsmegler og var borte fra friidretten i nesten 10 år. I vinter løp hun maraton på 2.19.12 og satte amerikansk rekord. Vi har fått låne deler av et fantastisk intervju hun gjorde med den svenske podcasten «Spring snyggt» hvor hun forklarer hvordan jogging etter graviditet nr 2 ble til et eventyrlig comeback og rekordfart.
+- Kristian forteller om siste treningsuka før forsøket på å løpe under 2.20 i Hamburg til søndag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/c1b17a23-525b-4048-a27e-4636bbea6c85_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/c1b17a23-525b-4048-a27e-4636bbea6c85_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:59:42</itunes:duration>
+      <pubDate>Fri, 22 Apr 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Rabi - Mannen bak europarekorden</title>
+      <description><![CDATA[19 år gamle Abdullahi Dahir Rabi sjokkerte både seg selv og mange andre da han løp under EM-kravet og satte ny europarekord for juniorer på 10 000 m med 28.11.71 på Bislett i påsken. Her får vi høre alt om rekordløpet, hvordan det var å komme til Norge som ung gutt, hvor tilfeldig han startet med løping, hvordan han har trent og hvilke storløpere han er i kontakt med. Rabi har hatt en utrolig utvikling og karrieren er så vidt i gang.
+
+Kristian forteller om nedturen i Hamburg Marathon og sine tanker om veien videre. Sammen med Jann er han også innom NM-terrengløp, sentrumsløpet, verdensrekorden på 100 km, ukas økt, et lytterspørsmål og et par løpere som hadde en tung dag på maraton i helga.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/cf65f691-02c3-41dc-ba87-0dfa64fec17b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/cf65f691-02c3-41dc-ba87-0dfa64fec17b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:53:24</itunes:duration>
+      <pubDate>Fri, 29 Apr 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Restitusjon</title>
+      <description><![CDATA[Professor ved institutt for fysisk prestasjonsevne på Idrettshøgskolen, Gøran Paulsen, er tilbake og deler av sin store kunnskap om restitusjon. Hva er egentlig viktig for god restitusjon? Her er vi innom mye og det ble en interessant prat hvor «vedtatte sannheter» i treningsverden fikk kjørt seg.
+Kristian klarer ikke holde seg i ro etter Hamburg Marathon, Jann er i fremgang og sammen diskuterer de ukas økt, Mo Farah, 104 maraton på 104 dager, Henrik Ingebrigtsens siste løp, Jakob Ingebrigtsens kommende sesongdebut og svarer på lytterspørsmål.
+
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/993dab4f-2091-4421-b74f-eec06b815739_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/993dab4f-2091-4421-b74f-eec06b815739_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:03:13</itunes:duration>
+      <pubDate>Fri, 06 May 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Supertalentets vanskelige reise</title>
+      <description><![CDATA[For noen uker siden imponerte 23 år gamle Malin Edland i sesongstarten med å bli norsk mester i terrengløp. Den oppturen smakte ekstra godt, for veien dit har ikke bare vært enkel. Som 16-åring løp hun på den strålende tiden 2.03 på 800 m etter såvidt å ha begynt med løping. Det ble det ikke lett å leve opp til i årene som etterpå. Puberteten, for lite hvile, en enorm vilje og en skade skapte utfordringer for en tenåring som identifiserte seg mye med resultatene som løper. Edland forteller om de vanskelige årene.
+Nå er hun i et treningsmiljø og en treningsfilosofi hun trives godt og resultatene går riktig vei igjen.
+Vi har fått tak i et intervju med Kristian Blummenfelt rett etter VM-tittelen på Ironman-distansen. Jann og Kristian diskuterer den prestasjonen, sesongåpningen til Jakob Ingebrigtsen og har fått hjelp av Lars Petter Stormo til å svare på et lytterspørsmål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/0c5b7c35-62a5-4bf8-af4a-6600b300bebb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/0c5b7c35-62a5-4bf8-af4a-6600b300bebb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:55:44</itunes:duration>
+      <pubDate>Fri, 13 May 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title> Blu og Bu</title>
+      <description><![CDATA[Kristian Blummenfelt er utvilsomt en av Norges beste og mest suksessrike utøvere uansett idrett. Vi finner ut hva han har gjort med treningen etter OL-gullet for å bli verdensmester på Ironman-distansen, hvor lite han egentlig er i Norge og hvor fort han kan løpe maraton når han skal prøve seg på under 7 timer.
+Bak Blu står teknologigründer og vitenskapsmann Olav Aleksander Bu. Han fikk gjennomslag for sine idéer etter OL i 2016 og er en avgjørende faktor for norsk triathlons suksess. Vi tok en ordentlig nerdeprat om trening og prestasjon med Blummenfelts viktige mann.
+Thomas Roth forteller om fallet som lagde drama i Holmenkollstafetten, og klubbkompis Sigurd Ruud Skjeseth deler sin opplevelse fra 25 runder i England på 28.17.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/26e43366-12aa-4956-a47a-5c068ac68d24_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/26e43366-12aa-4956-a47a-5c068ac68d24_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:35:38</itunes:duration>
+      <pubDate>Fri, 20 May 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Olaf Tufte</title>
+      <description><![CDATA[Med 25 år mellom sitt første og siste OL har dobbelt Olympisk mester Olaf Tufte en unik karriere bak seg. Kristian og Jann dro hjem til Tufte gård for å høste av roerens treningskunnskap fire dager før han dro på Mesternes Mester-opptak. Vi fikk klare svar, tydelige råd og en større forståelse av hva som gjorde Tufte god.
+Kristian byr som vanlig på ukas økt og svarer på lytterspørsmål. Jann er opptatt av stort og smått i løpeverden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/438c0825-0fb6-4aae-b905-b058afdfdede_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/438c0825-0fb6-4aae-b905-b058afdfdede_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:57:09</itunes:duration>
+      <pubDate>Fri, 27 May 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Cerutty og Lydiard</title>
+      <description><![CDATA[Da 1960-tallet nærmet seg markerte to trenere fra Australia og New Zealand seg med noen av verdens beste løpere. Plutselig så alle mot Oseania. Arthur Lydiard ble kanskje den mest kjente treneren gjennom alle tider. Vi får en ny historietime med Thor Gotaas hvor han forteller om trenerlegendene og deres berømte elever som Peter Snell og Herb Elliot.
+Vi byr også på et kort intervju med Olympisk mester og verdensrekordholder Joshua Cheptegei etter 12.57 i Eugene. Og Narve Gilje Nordås og Jacob Boutera snakker om sine nye personlig rekorder rett bak VM-kravet.
+Kristian og Jann forsøker å hjelpe en lytter med å bli fridd til, diskuterer Jakob og Filip Ingebrigtsens løp i USA, tre norske kvinner i stor fremgang og Kristian plukker overraskende ukas økt fra treningen til Jann.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/66344aea-c209-4bc4-9c78-62845f2c037e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/66344aea-c209-4bc4-9c78-62845f2c037e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:04:40</itunes:duration>
+      <pubDate>Fri, 03 Jun 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Da Norge tok sølv i halvmaraton-VM</title>
+      <description><![CDATA[Brynhild Synstnes løp på det norske laget som tok sølv under halvmaraton-VM i Oslo i 1994. Med Johan Kaggestad som trener traff hun perfekt med formen og hadde sitt livs beste idrettsdag i hovedstadens gater. Norge knuste Etiopia og kunne feire medalje. Hør alt om treningen bak og den store opplevelsen. Kristian løper 10 000 meter på Bislett og Jann er på plass med Sindre Buraas som ekspert. Etter løpet får han en ærlig dom av Petter Northug. Eldar Fagerbakke var med å avgjøre Holmenkollstafetten med en praktfull utforetappe ned fra Besserud. Vi snakker med han og Sindre Buraas om hva som er viktig for å klare seg bra nedover. Jann snakker med mesterskapsaktuelle løpere etter en rask 1500 meter på Jessheim.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/c95d8581-645a-4be4-87d5-1c1dcaa86b55_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/c95d8581-645a-4be4-87d5-1c1dcaa86b55_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:17:35</itunes:duration>
+      <pubDate>Fri, 10 Jun 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kristin Harila - Rekordjakt på jordas tak</title>
+      <description><![CDATA[Kristin Harila har forlatt idrett og næringsliv for å jakte rekorder opp verdens høyeste fjell. På under et halvt år sikter hun på å komme seg opp på verdens 14 topper over 8000 meter. Vi traff henne under en pause i Norge etter at de seks første var besteget med suksess.
+Rekordjag i denne høyden er farlig. Harila har passert døde mennesker, vært sikker på at kjente hadde mistet livet og trodd hun skulle død selv. Hvorfor utsetter hun seg likevel for denne faren? Harila vil vise at dette ikke er menns verden.
+I tillegg er Vidar Higraff tilbake med sine parodier. Vi snakket med Jacob Boutera minutter etter at han klarte VM-kravet på 3000 hinder. Ellers har Kristian og Jann mye på hjerte etter en travel uke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/8204dd5d-d109-4674-b0bb-f9abace9b190_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/8204dd5d-d109-4674-b0bb-f9abace9b190_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:20:40</itunes:duration>
+      <pubDate>Fri, 17 Jun 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Daniel Kvammen</title>
+      <description><![CDATA[Artisten Daniel Kvammen er blitt hektet på løping. I vår løp han halvmaraton på 1.21. Nå satser han på å løpe enda fortere. Men først og fremst mener han løpingen er bra for han fysisk, mentalt og kreativt. Mindre festing og mer fysisk aktivitet har gitt han et løft. I vårt intervju lufter han mange fine tanker rundt løping.
+Bislett Games ble en suksess. Kristian og Jann diskuterer den norske innsatsen, og vi får høre litt av gleden Karoline Bjerkeli Grøvdal følte på etter å ha satt norsk rekord på 5000 m. Jann treffer også den tidligere 800-stjernen Wilson Kipketer og spør han om treningen bak suksessen.
+Kristian har løpt 10 km under Midnight Sun Marathon og er fra seg av begeistring. Nå er NM neste.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/dffeec89-ed9b-4927-bd5a-28ffe22bdf4d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/dffeec89-ed9b-4927-bd5a-28ffe22bdf4d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:09:15</itunes:duration>
+      <pubDate>Fri, 24 Jun 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sam Atkin - I toppen med lavt treningsvolum</title>
+      <description><![CDATA[Mange norske deler treningsfilosofien til familien Ingebrigtsen. Ute i verden finnes det utøvere som trener veldig annerledes, men også løper fort. Britiske Sam Atkin løper 5000 meter på 13.03 og trener litt over 80 km i uka i snitt. Målet hans er å vinne sommerens EM. Jann tok en løpetur og en lang treningsprat med Atkins for å finne ut av hvordan han trener.
+NM i Stjørdal. Kristian var deltaker og Jann kommenterte. Sammen snakker de om distansene fra 800 meter til 10000 m og byr på et intervju med Even Brøndbo Dahl som ble norsk mester mot alle odds. Også han med oppsiktsvekkende lite løping per treningsuke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/baa0e917-3f47-47f3-83d5-35ae2eea9d95_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/baa0e917-3f47-47f3-83d5-35ae2eea9d95_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:45:16</itunes:duration>
+      <pubDate>Fri, 01 Jul 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>#138 Da Sverige var best i verden</title>
+      <description><![CDATA[Thor Gotaas er tilbake med en historietime om da svenske Gösta Holmér kom opp med fartsleken, og Gunder Hägg og hans konkurrent Arne Andersson satte verdensrekorder. Sverige var best i verden under andre verdenskrig og det ble løpt på imponerende tider. Da Sveriges beste menn var klar for mesterskap etter krigen ble de utestengt for brudd på amatørreglene.
+Jann er på ferie i nettopp Sverige. Men Kristian holder trykket oppe og har løpt 5000 meter på Bislett med lyshare. Sammen tar de opp noen av løpetemaene fra forrige uke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/e7bb57bd-dcb0-48b2-88c7-942102612844_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/e7bb57bd-dcb0-48b2-88c7-942102612844_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:41:35</itunes:duration>
+      <pubDate>Fri, 08 Jul 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>#139 Jakob Ingebrigtsens konkurrenter</title>
+      <description><![CDATA[Det er endelig tid for VM i Eugene og vi blir bedre kjent med Jakob Ingebrigtsens konkurrenter. Ved hjelp av Inside running podcast har vi fått lydklipp med Oliver Hoare, Josh Kerr og Stewart McSweyn. Hør hvordan om høydetelt, yndlingsøkter, treningsprinsipper og vanlige treningsøkter som Jakobs argeste utfordrere gjennomfører.
+Jann er på reise til USA under dagens opptak og får hjelp av Sivert (6) og Kristian til å spå hvordan det går med Ingebrigtsens dobling, favorittene og de andre norske på distanse.
+I tillegg blir det ukas økt, lytterspørsmål og stort og smått fra utholdenhetsverden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/a446e90f-935e-4e81-b399-31af2d5f1f7c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/a446e90f-935e-4e81-b399-31af2d5f1f7c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:18:18</itunes:duration>
+      <pubDate>Fri, 15 Jul 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Knut Kvalheim og VM til nå</title>
+      <description><![CDATA[Jann kommer rett fra VM-finalen til Jakob Ingebrigtsen og Karsten Warholm på Hayward Field i Eugene og ringer opp Kristian som har stått opp midt på natta hjemme i Norge.
+Geoff Wightman var speaker da sønnen Jake, som han er trener for, slo Ingebrigtsen og tok VM-gull på 1500 meter. Pappa Wightman forklarer endringene i trening som ligger bak gullet.
+Vidar Higraff er på hugget etter sin sommerferie og leverer nye parodier av kjente folk.
+Og vår gjest Knut Kvalheim forteller om trening, oppholdet i VM-byen Eugene på 70-tallet, mesterskap og mye mer i denne reprisen fra da vi het Breaking Marathon Limits.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/a92b8476-fc80-4a5f-8def-25e1fa819be4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/a92b8476-fc80-4a5f-8def-25e1fa819be4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:29:34</itunes:duration>
+      <pubDate>Fri, 22 Jul 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>VM-gull</title>
+      <description><![CDATA[Verdens beste løper på 5000 meter er norsk. Jakob Ingebrigtsen klarte det ingen av oss trodde var mulig da vi vokste opp. Gullet er selvsagt hovedtema i dagens episode. Vi har snakket med Jakob selv og storebror Henrik like etter at gullet var sikret. Sportssjef Erlend Slokvik gir sitt perspektiv på det som ligger bak prestasjonen. Og vi får et møte med Luis Grijalva som var finalens store overraskelse på 4.plass.
+5000 meter for kvinner ble også en norsk suksess med Karoline Bjerkeli Grøvdal på en imponerende 8.plass. Dagen etter finalen forteller Grøvdal om sin VM-opplevelse, treningen i forkant og under VM, isolasjon og løpsopplegget i finalen i et langt intervju med Jann rett før hjemreise fra USA.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/663d8ead-0858-40d6-a55b-cfbea62a5be5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/663d8ead-0858-40d6-a55b-cfbea62a5be5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:44:14</itunes:duration>
+      <pubDate>Fri, 29 Jul 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Slik trente Grete Waitz og Cam Levins</title>
+      <description><![CDATA[I denne episoden får vi et gjenhør fra vår Breaking Marathon Limits-tid, hvor vi fikk lest de håndskrevne treningsdagbøkene til Grete Waitz. Jack Waitz forteller om treningen som skapte løperlegenden, og vi får artige historier og detaljer fra en tid da haller og trening i sydligere strøk var mindre vanlig.
+
+Takket være podcasten Spring Snyggt kan vi også by på en bit av et ferskt intervju med Cam Levins som ble nummer fire i VM i maraton i Eugene. I fjor ble han nummer 72 i OL, så endret han på treningen. Her får du høre hva han gjorde.
+
+Ellers diskuterer Kristian og Jann stort og smått fra forrige uke inkludert EM-uttak, en konkurrerende dopingdømt utøver, treningen til Kristian, lytterspørsmål, ukas økt og mye mer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/dc5fba7c-54e9-402f-9873-d06b171912d4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/dc5fba7c-54e9-402f-9873-d06b171912d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:27:02</itunes:duration>
+      <pubDate>Fri, 05 Aug 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Tidsklemme, disiplin og effektiv trening</title>
+      <description><![CDATA[30 år gamle Bjørnar Sandnes Lillefosse kvalifiserte seg for sitt første EM på bane et par dager etter siste eksamen på medisinstudiet. Helvetesuka ble til en jubeluke. Neste helg kommer legens EM-debut på 10 000 meter. Vi henter inn tips på trening til 10 km og hvordan vi kan få inn trening på travle dager. Og hvordan trener Lillefosse selv? Han som har perset på alt i år og løper 10 000 meter på 28.11.
+Jann ringer Kristoffer Ingebrigtsen, supermosjonisten som har vært på høydesamling med sine kjente løpebrødre Jakob, Filip og Henrik.
+Vidar Higraff stikker innom som Kristian og gir Jann maratontips. Mens Kristian selv overrasker Jann med valget av ukas økt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/f08325d6-87bc-4e8d-ae25-ebe248364461_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/f08325d6-87bc-4e8d-ae25-ebe248364461_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:47:53</itunes:duration>
+      <pubDate>Fri, 12 Aug 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>EM debutant mot alle odds</title>
+      <description><![CDATA[Ranveig Hansen er en alenemor til tre barn som begynte å løpe for tre år siden for å komme seg litt i bedre form. Tidligere i år løp hun 230 km på et døgn og kvalifiserte seg til EM i 24-timersløp. Hvordan er dette mulig for en som har passert 40 år, jobber og studerer ved siden av familielivet? Hør hvordan utrolig Ranveig har fått til dette.
+Jann kommer rett fra stadion etter å ha kommentert Jakob Ingebrigtsens EM-gull på 5000 meter. Dette blir selvsagt tema med både Vebjørn Rodal og Kristian Ulriksen. Vi analyserer Ingebrigtsens løp og andre inntrykk fra EM-starten. Kristian plukker ukas økt fra en Europamester og det blir svart på to lytterspørsmål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/0cb7fc7f-f4f1-472b-9836-7287cec4583f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/0cb7fc7f-f4f1-472b-9836-7287cec4583f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:44:28</itunes:duration>
+      <pubDate>Fri, 19 Aug 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Historien om da Zerei begynte å løpe igjen</title>
+      <description><![CDATA[Zerei Kbrom Mezngi tok en overraskende sølvmedalje under en thriller av en 10 000 meter under EM i München. Vi intervjuet hans trener Asle Tjelta rett etter bragden på Olympiastadion. Han røpet en superøkt i oppkjøringen og prøvde å sette ord på hva bragden betyr.
+Geir Vorren var en ildsjel i Vadsø som kom i kontakt med Zerei litt tilfeldig gjennom et annet løpstalent og en uventet telefonsamtale. Zerei var en god løper som hadde flyktet til Norge fra Eritrea og var plassert i Rognan. Vorren forteller hele historien om da Zerei kom til Vadsø i 2013, trange sko som ga han blødende sår,  de første konkurransene, treningsvilje i snøstormen og hvordan sølvløpet i München får han til å gråte hver gang han ser det. Han hedrer de som hjelper Zerei i dag. En historie fortalt med et engasjement vi knapt har hørt maken til. En historie som gir inntrykk.
+Kristian og Jann diskuterer slutten av EM, egen trening før Berlin maraton og svarer på lytterspørsmål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/90480daf-a225-4882-88ff-9b267e7cc1a6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/90480daf-a225-4882-88ff-9b267e7cc1a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:53:31</itunes:duration>
+      <pubDate>Fri, 26 Aug 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Hjerteflimmer</title>
+      <description><![CDATA[Er det fare for å trene på seg hjerteflimmer når vi trener utholdenhet? Det er et spørsmålene Jann har etter å ha observert at mange sliter med hjerteflimmer. Lege Marius Myrstad har forsket på Birken-deltakere, har et nytt spennende forskningsprosjekt på gang og er ekspert på område. Jann får anledning til å spørre om alt han lurer på.
+Thomas Alsgaard forteller om hvordan han har opplevd å leve med hjerteflimmer som barn, toppidrettsutøver og supermosjonist.
+Sebastian Conrad Håkansson ble nummer 4 i VM på 100 km 15 sekunder bak medalje på ny nordisk rekord Jann ringen han opp.
+Jakob Ingebrigtsen forklarer forvirringen rundt feil fart på lysharen i Lausanne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/544aca8f-692b-4ada-84bf-35ef5bd53f14_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/544aca8f-692b-4ada-84bf-35ef5bd53f14_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:07:53</itunes:duration>
+      <pubDate>Fri, 02 Sep 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Boysen og Kruska</title>
+      <description><![CDATA[Audun Boysen og Ernst Kruska Larsen tok Norges første OL-medaljer på lengre løp i 1956. I denne historietimen forteller Thor Gotaas og Arne Kvalheim historien om de to fremragende løperne.
+Andreas Almgren knuste den svenske rekorden til Anders Gärderud da han løp nordens nest beste tid med 13.01.70. Vi har snakket med svensken om rekordløpet, trening, norsk inspirasjon, skole og jobb.
+Filip Ingebrigtsen var tilbake i konkurranse med 5 km gateløp i Drammen. Han forteller oss hvordan sommeren med skade har vært. Bror Henrik Ingebrigtsen var også på plass og gir oss status på motivasjonen for videre satsing og sier hva han synes om at svensker kopierer treningsfilosofien deres.
+Kristian og Jann gjør opp status etter å ha løpt halvmaraton og har mye å si om noen av ukas hendelser i løpeverden.
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/46cab82d-cb6b-40cc-aae1-e6c35c22b01c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/46cab82d-cb6b-40cc-aae1-e6c35c22b01c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:44:10</itunes:duration>
+      <pubDate>Fri, 09 Sep 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Liveshow på 3KT</title>
+      <description><![CDATA[Dagen før Oslo Maraton holdt Kristian og Jann liveshow med gjester foran 350 løpere på 3KT.
+Parodikongen Vidar Higraff bidro med humorinnslag. Jack Waitz og Ingvill Måkestad Bovim delte av sin brede kunnskap om løpsgjennomføring, trening og ernæring i forbindelse med løp. Thor Gotaas fortalte om Martin Stokken som kombinerte langrenn og løping bedre enn noen andre og andre ville historier fra idrettsverden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/f4b221d7-c318-47b7-84da-e419f7bd4323_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/f4b221d7-c318-47b7-84da-e419f7bd4323_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:38:42</itunes:duration>
+      <pubDate>Fri, 16 Sep 2022 21:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>VM på bryllupsreise og kritisk hastighet</title>
+      <description><![CDATA[Sylvia Nordskar ble nummer sju i VM i skyrunning på sin egen bryllupsreise. Vi får høre hvordan hun gikk fra å være et langrennstalent til å bli en av Norges beste fjelløpere samtidig som hun har gjort jobbkarriere i et miljø som krever mange timer på jobb.
+
+Hanne Mjøen Maridal forteller om kjempeløpet på 1.12 under København halvmaraton, og om motgangen som gjorde løpet ekstra gledelig.
+
+Professor Øyvind Sandbakk forklarer oss hva kritisk hastighet er og om det er en ting vi bør ta inn i treningsarbeidet. I tillegg diskuterer vi drift på puls under trening og pulsfall i intervallpauser.
+
+Kristian og Jann er veldig opptatt av Berlin Marathon som bare er dager unna. De diskuterer de siste øktene og løpsplanen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/aaf18cf1-703b-41c4-89eb-dd814fd78c3a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/aaf18cf1-703b-41c4-89eb-dd814fd78c3a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:22:54</itunes:duration>
+      <pubDate>Fri, 23 Sep 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Johnsrud Sundby, Berlin Marathon og evaluering</title>
+      <description><![CDATA[Langrennsløper Martin Johnsrud Sundby forteller i episode 150 om ting han gjorde riktig og galt treningsmessig. Han avslører hvilken økttype han responderte best på da han ble best i verden, hvilken trening han mener er best for mosjonister, hans mening om høydetrening og hvorfor han nå jobber med å få folk til å endre livsstil.
+Kristian og Jann spiller inn episoden et par timer etter Berlin Marathon foran 40 norske maratonløpere like ved målstreken i den tyske hovedstaden. De går igjennom egne løp, diskuterer Kipchoges verdensrekord og en foreløpig evaluering.
+Evaluering og sesongpause er også tema i Janns prat med EM-løper Fredrik Sandvik.
+I tillegg så snakket vi kjapt med Even Brøndbo Dahl etter at han satte norsk rekord på 3 km forrige uke.
+Dette er siste episode før vi selv tar en sesongpause.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/24104174-1574-4623-ab15-c2d4c31d7914_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/24104174-1574-4623-ab15-c2d4c31d7914_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:52:30</itunes:duration>
+      <pubDate>Fri, 30 Sep 2022 03:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title> Kunngjøring</title>
+      <description><![CDATA[Sesongpausen går mot slutten. Her får dere vite hva som er planen for «I det lange løp» fremover. Samt litt om løpsplanene til Kristian og Jann i umiddelbar fremtid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/0a04ff9d-6337-480e-b5cd-c48c1cfc24c9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/0a04ff9d-6337-480e-b5cd-c48c1cfc24c9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:40</itunes:duration>
+      <pubDate>Fri, 28 Oct 2022 06:00:00 +0200</pubDate>
+    </item>
+  </channel>
+</rss>

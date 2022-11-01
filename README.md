@@ -2,7 +2,7 @@
 Publishes RSS feeds with the last 10 episodes of every configured podcast, without delay. For personal use.
 
 ## Feeds
-**Go to [this page](https://sindrel.github.io/nrk-pod-feeds) for a list of available feeds.**
+**Go to [this page](https://a04m.github.io/nrk-pod-feeds) for a list of available feeds.**
 
 ## Contribute
 Feel free to open a pull request or create an issue.

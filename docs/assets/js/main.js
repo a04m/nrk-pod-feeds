@@ -9,7 +9,7 @@ function copyToClipboard(feed) {
 }
 
 function listFeeds() {
-    base_url = "https://sindrel.github.io/nrk-pod-feeds/rss/";
+    base_url = "https://a04m.github.io/nrk-pod-feeds/rss/";
 
     feeds.forEach(feed => {
         if(feed["hidden"]) {
