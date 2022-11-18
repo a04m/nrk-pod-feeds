@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 152 siste fra I det lange løp</title>
+    <title>De 153 siste fra I det lange løp</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 152 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 153 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 11 Nov 2022 05:13:54 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Nov 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 18 Nov 2022 03:33:00 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Nov 2022 03:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/h1rA99YwnkIlpXi5MmE_8goxXUMs_fNtfXMKOAGDODkw"/>
     <item>
@@ -1497,6 +1497,14 @@ Dette er siste episode før vi selv tar en sesongpause.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/7a84ff96-22ac-4414-8518-b44d6bb95207_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:17:28</itunes:duration>
       <pubDate>Fri, 11 Nov 2022 06:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Nå blir det for mye</title>
+      <description><![CDATA[For et år siden var psyken så dårlig at det var tungt å smøre sin egen brødskive. Nå er Hanne Mjøen Maridal tilbake som en av Norges beste løpere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/7e2a3aab-4e3a-497e-b8d5-5b3e089f4562_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/7e2a3aab-4e3a-497e-b8d5-5b3e089f4562_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:14:11</itunes:duration>
+      <pubDate>Fri, 18 Nov 2022 03:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
