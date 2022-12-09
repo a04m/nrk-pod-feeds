@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 155 siste fra I det lange løp</title>
+    <title>De 156 siste fra I det lange løp</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 155 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 156 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 02 Dec 2022 02:57:16 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Dec 2022 03:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 09 Dec 2022 02:54:16 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Dec 2022 03:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/h1rA99YwnkIlpXi5MmE_8goxXUMs_fNtfXMKOAGDODkw"/>
     <item>
@@ -1523,6 +1523,14 @@ Likevel valgte Martin Mørk (21) langrenn. Det samme gjorde søsteren. Hvorfor?]
       <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/630e8d5b-46b6-4320-9e78-870300d57274_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:11:52</itunes:duration>
       <pubDate>Fri, 02 Dec 2022 03:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Marius Bakkens mølletips</title>
+      <description><![CDATA[Hvordan bruker man tredemølle mest effektivt? Marius Bakken har testet mye, og nå gir den tidligere toppløperen sine beste mølletips.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/28796dff-cd01-461a-a726-e2e23cd09743_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/28796dff-cd01-461a-a726-e2e23cd09743_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:10:40</itunes:duration>
+      <pubDate>Fri, 09 Dec 2022 03:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
