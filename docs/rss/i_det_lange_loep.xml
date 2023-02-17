@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 165 siste fra I det lange løp</title>
+    <title>De 166 siste fra I det lange løp</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 165 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 166 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 10 Feb 2023 05:27:58 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Feb 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 17 Feb 2023 05:27:59 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/h1rA99YwnkIlpXi5MmE_8goxXUMs_fNtfXMKOAGDODkw"/>
     <item>
@@ -1604,6 +1604,14 @@ Hun gikk mot strømmen og løp turer på 50 km, og nå er 18-åringen blitt god.
       <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/c07c8905-e566-4d79-8604-7a3095887a09_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:41:02</itunes:duration>
       <pubDate>Fri, 10 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fra VM-helt til psykisk syk</title>
+      <description><![CDATA[I 2019 løp svenske Kalle Berglund VM-finale mot Jakob Ingebrigtsen, men så kom prestasjonsangsten. Da fikk han lite hjelp i toppidretten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/a7aa814e-8d9e-474d-ac27-1edcf17e8858_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/a7aa814e-8d9e-474d-ac27-1edcf17e8858_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:15:55</itunes:duration>
+      <pubDate>Fri, 17 Feb 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
