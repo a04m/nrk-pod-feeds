@@ -18,5 +18,12 @@
         "season": null,
         "enabled": true,
         "episodes": 0
+    },
+    {
+        "id": "loerdagsraadet",
+        "title": "Alle fra Lørdagsrådet",
+        "season": null,
+        "enabled": true,
+        "episodes": 0
     }
 ]
