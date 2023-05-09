@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 637 siste fra Lørdagsrådet</title>
+    <title>De 638 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 637 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 638 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 06 May 2023 12:41:52 +0000</lastBuildDate>
-    <pubDate>Sat, 06 May 2023 13:25:00 +0200</pubDate>
+    <lastBuildDate>Tue, 09 May 2023 04:30:11 +0000</lastBuildDate>
+    <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -5605,6 +5605,15 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/24357686-f35c-4a9d-a6b7-1f9d2b9961b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:12:18</itunes:duration>
       <pubDate>Sat, 06 May 2023 13:25:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Flytter Eira inn med bror og familie?</title>
+      <description><![CDATA[Oppdatering fra Eira – og en meget gooood fyllemail!
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/e1e73fa8-3035-48c2-bf07-ae64b961ca39_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/e1e73fa8-3035-48c2-bf07-ae64b961ca39_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:53</itunes:duration>
+      <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
