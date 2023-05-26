@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 179 siste fra I det lange løp</title>
+    <title>De 180 siste fra I det lange løp</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 179 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 180 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 19 May 2023 04:28:41 +0000</lastBuildDate>
-    <pubDate>Fri, 19 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 May 2023 04:28:27 +0000</lastBuildDate>
+    <pubDate>Fri, 26 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw"/>
     <item>
@@ -1719,6 +1719,17 @@ Hun skrev seg inn i en innholdsrik historie med smeltede grammofonplater, rå eg
       <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/62216081-efd3-4330-aaa8-42597f5354b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:08:31</itunes:duration>
       <pubDate>Fri, 19 May 2023 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Alt som kan måles</title>
+      <description><![CDATA[Fredrik Mentzoni har doktorgrad og har som ansvarsområde å videreutvikle fagområdet teknologi og utstyr på Olympiatoppen for landets beste idrettsutøvere. Vi har snakket med han om alt som kan måles (estimeres) i utholdenhetsidrett, i hvilken grad vi kan stole på tallene, og hva vi kan bruke dem til. Bør vi alle bli labrotter og gjøre treningen så teknologisk som mulig? Eller kommer vi fortsatt langt med egen følelse?
+Parodikongen Vidar Higraff er tilbake og har levert en egen miniepisode hvor han spiller samtlige roller.
+Jacob Boutera har trent for fullt for først gang siden november og kommer med ukas økt i toppidrettshjørnet.
+Kristian og Jann sliter fortsatt med sykdom, men prøver å få opp humøret med å diskutere alle som har åpnet sesongen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/40ce3e5d-2a55-4616-be12-a25bfab24237_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/40ce3e5d-2a55-4616-be12-a25bfab24237_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:30:57</itunes:duration>
+      <pubDate>Fri, 26 May 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
