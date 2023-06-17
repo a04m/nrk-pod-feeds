@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 648 siste fra Lørdagsrådet</title>
+    <title>De 649 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 648 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 649 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 10 Jun 2023 11:23:19 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Jun 2023 13:12:00 +0200</pubDate>
+    <lastBuildDate>Sat, 17 Jun 2023 11:23:27 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Jun 2023 13:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -5694,6 +5694,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/bfb83268-c931-47db-ad8c-608fe1a4f8b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:13:02</itunes:duration>
       <pubDate>Sat, 10 Jun 2023 13:12:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ronny Brede Aase / Ida Fladen / Henrik Farley</title>
+      <description><![CDATA[Har Synne satt grenser for svigers? PROBLEMER: Føtter til salgs / Bli sammen med eksen som ikke var utro? / Sensitiv eller et godt menneske? / Mamma vil bli mormor / Umulig italiensk kjærlighet / Fisefin Oliver eller grisete Geir? / Kan man planlegge sitt eget frieri? / Freeriders - lei av dem! / Forvirra, fortvila og forelska]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/7048a400-55d8-46e5-9547-43f9e9b739e5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/7048a400-55d8-46e5-9547-43f9e9b739e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:09:56</itunes:duration>
+      <pubDate>Sat, 17 Jun 2023 13:05:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
