@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 187 siste fra I det lange løp</title>
+    <title>De 188 siste fra I det lange løp</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 187 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 188 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 14 Jul 2023 04:31:43 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Jul 2023 04:28:41 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw"/>
     <item>
@@ -1790,6 +1790,17 @@ Kristian har rømt nordover, mens Jann prøver å stå opp om morgenen i Hellas.
       <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/dbf66e86-30f5-4f1e-b083-e371fc13a3be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:20:36</itunes:duration>
       <pubDate>Fri, 14 Jul 2023 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Henry Rono - Høye topper og dype daler</title>
+      <description><![CDATA[Henry Rono satte verdensrekord på 4 ulike distanser i løpet av 81 dager i 1978. Den unike løperen fikk aldri løpt OL da han var i storslag på grunn to boikotter. På 80-tallet sleit han utenfor banen, men kjempet seg tilbake. Thor Gotaas forteller om livet til en av verdens mest talentfulle løpere , som han kjenner personlig.
+Jakob Ingebrigtsens nye storløp på 1500 meter står selvsagt på agendaen.
+Narve Gilje Nordås og trener Gjert Ingebrigtsen  forteller om inntrykkene etter at Narve tok VM-kravet i Heusden.
+Jacob Boutera forteller om skaden og skuffelsen i NM og Vidar Higraff er tilbake med elleville parodier.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/af2c1928-d93b-4be3-846d-f8c149c937e6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/af2c1928-d93b-4be3-846d-f8c149c937e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:14:16</itunes:duration>
+      <pubDate>Fri, 21 Jul 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
