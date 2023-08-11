@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 190 siste fra I det lange løp</title>
+    <title>De 191 siste fra I det lange løp</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 190 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 191 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 04 Aug 2023 04:27:31 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Aug 2023 04:27:57 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw"/>
     <item>
@@ -1822,6 +1822,14 @@ Kristian har testet en velkjent langturrunde i Oslo, mens Jann holder det gåend
       <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/b81f6544-a036-4555-ab44-6c4dd917cd17_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:31:06</itunes:duration>
       <pubDate>Fri, 04 Aug 2023 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Løpeteknikk</title>
+      <description><![CDATA[OL-vinner Vebjørn Rodal gir tips rundt løpeteknikk. Toppløpere som Henrik og Filip Ingebrigtsen deler sine tanker om viktigheten av god teknikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/56454340-cd73-476b-b38d-7efc521e3c74_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/56454340-cd73-476b-b38d-7efc521e3c74_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:15:35</itunes:duration>
+      <pubDate>Fri, 11 Aug 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
