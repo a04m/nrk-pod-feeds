@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 192 siste fra I det lange løp</title>
+    <title>De 193 siste fra I det lange løp</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 192 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 193 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 18 Aug 2023 04:27:36 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Aug 2023 04:28:37 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw"/>
     <item>
@@ -1838,6 +1838,16 @@ Kristian har testet en velkjent langturrunde i Oslo, mens Jann holder det gåend
       <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/6fd1add8-7e50-4ef4-a3b0-fdc52630fe0c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:45:11</itunes:duration>
       <pubDate>Fri, 18 Aug 2023 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nye tanker</title>
+      <description><![CDATA[Vi snakker med professor Bent Rønnestad om å starte intervalldragene hardere enn man avslutter, bolklegging av hardøkter og innlagte spurter på rolige langturer. Forskning og praksis på øverste nivå i sykkel gir positive svar på dette. Er det noe for løpere også?
+Kristian er storfornøyd med hvordan han trener om dagen, mens Jann prøver å holde kroppen i gang i VM-byen Budapest. På løpetur traff han Bernard Lagat og fikk et løpende intervju med legenden som er den eneste som har vunnet 1500m og 5000 m i samme VM.
+Mesterskapets første dager er selvfølgelig oppe til diskusjon sammen med to lytterspørsmål. Og ukas økt ble gjennomført som siste hardøkt av en VM-løper langs Donau.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/0eaa7966-2eab-4075-9d74-d7bea608efa0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/0eaa7966-2eab-4075-9d74-d7bea608efa0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:55:28</itunes:duration>
+      <pubDate>Fri, 25 Aug 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
