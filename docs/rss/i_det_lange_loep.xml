@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 194 siste fra I det lange løp</title>
+    <title>De 195 siste fra I det lange løp</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 194 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 195 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 01 Sep 2023 04:28:25 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 08 Sep 2023 04:28:28 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw"/>
     <item>
@@ -1856,6 +1856,20 @@ Mesterskapets første dager er selvfølgelig oppe til diskusjon sammen med to ly
       <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/0ab0eec8-fbfe-4c21-ac0e-7a0450b6a376_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:42:36</itunes:duration>
       <pubDate>Fri, 01 Sep 2023 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sorg og trening</title>
+      <description><![CDATA[De fleste opplever sorg i løpet av livet. Hvordan påvirker sorg kroppen? Og hvordan påvirker trening det mentale i en tøff sorgperiode?
+Toppidrettsutøver Mari Eide mistet søsteren sin et halvt år før hun tok sin VM-medalje. Hun forteller om hvordan dette halvåret var og hvordan det var mulig å prestere sitt livs løp i en svært vanskelig periode.
+Vidar Gjengedal Hansen mistet noen uker etter fødselen og forklarer hvordan treningen ble en del av krisehåndteringen.
+Mannen til Karen Marie Berg døde brått på en løpetur. Hun hadde stort utbytte av at venninner kom å dro henne ut i marka.
+Therese Johaug forteller hvordan hun taklet sterk sorg og trening i kombinasjon.
+Hjerneforsker Ole Petter Hjelle forklarer hva sorg og aktivitet gjør med hjernen.
+I tillegg har vi fått et eksklusivt møte med verdensmesteren på 1500 meter, Josh Kerr, som gir oss ukas økt. Og vi har ringt opp Yngvild Kaspersen etter prestisjetriumfen i fjellene rundt Chamonix.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/571dbbf9-43fd-4d44-a919-426522aea6dd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/571dbbf9-43fd-4d44-a919-426522aea6dd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:19:46</itunes:duration>
+      <pubDate>Fri, 08 Sep 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
