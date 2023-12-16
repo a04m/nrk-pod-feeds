@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 692 siste fra Lørdagsrådet</title>
+    <title>De 693 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 692 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 693 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 13 Dec 2023 12:45:20 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Dec 2023 12:30:00 +0100</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 13:26:33 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Dec 2023 13:39:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -6048,6 +6048,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/acf93f05-7db1-492b-9bd7-a0ee49e32fd0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>16:05</itunes:duration>
       <pubDate>Wed, 13 Dec 2023 12:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Espen Eckbo / Silje Nordnes / Karsten Blomvik</title>
+      <description><![CDATA[Klarte Ana å sende nudes til kjæreten? PROBLEMER: Forventningene om glede / Kjæreste eller katt? / Sander har blitt syk og kjip / Hjelp! Julegave til en man dater? / Plan for 2024?! / Jeg vil ikke ha svigers på besøk hver ferie! / Kjærlighetssorg etter 2 måneder med dating / Kjæresten sover dårlig sammen / To tafatte forlovere]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/17bec28b-6a90-4d5a-a7d3-c59d84bfdffe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/17bec28b-6a90-4d5a-a7d3-c59d84bfdffe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:03:21</itunes:duration>
+      <pubDate>Sat, 16 Dec 2023 13:39:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
