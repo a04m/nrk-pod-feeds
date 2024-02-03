@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 706 siste fra Lørdagsrådet</title>
+    <title>De 707 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 706 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 707 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 31 Jan 2024 13:26:11 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Jan 2024 14:10:00 +0100</pubDate>
+    <lastBuildDate>Sat, 03 Feb 2024 12:37:45 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Feb 2024 13:16:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -6160,6 +6160,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/812e6837-c9a6-4329-8aa4-859e4a2f3bed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>24:05</itunes:duration>
       <pubDate>Wed, 31 Jan 2024 14:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ingrid Gjessing Linhave / Tete Lidbom / Ramón Torres Andresen</title>
+      <description><![CDATA[Hallois rådgivere / Hvordan deale med ustabile folk på bussen? / Moralsk feil med galla? / Tilgivelse i bygda / Hvordan hjelpe nabokatten Pusur? / Hun elsker han, men de er bare venner / Flaggermusen - den healende blotteren / Pappa er klein / «Spicy scenes» på offentlig transport? / Koppen skal ut / Epilog]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/b9f3bab3-12df-433d-80d4-f13301d19e1c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/b9f3bab3-12df-433d-80d4-f13301d19e1c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:22:43</itunes:duration>
+      <pubDate>Sat, 03 Feb 2024 13:16:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
