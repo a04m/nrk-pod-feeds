@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 710 siste fra Lørdagsrådet</title>
+    <title>De 711 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 710 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 711 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 14 Feb 2024 15:25:48 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Feb 2024 16:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 17 Feb 2024 12:38:09 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Feb 2024 13:02:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -6192,6 +6192,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/edcdcf46-dcaf-493a-9847-f8af3a9a9582_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:07</itunes:duration>
       <pubDate>Wed, 14 Feb 2024 16:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mikkel Niva / Martha Leivestad / Einar Tørnquist</title>
+      <description><![CDATA[Hallois rådgivere / Mystisk nabomann, nysgjerrig nabodame(r) / Uvel av fortiden / Takke kollegaer før jeg drar / Tenker jeg for mye på utseende? / Vårt dirty laundry / Treningskjærlighetssorg / En fri fugl / Hvor gode er dere på øyekontakt? / Bestekompis eller drømmemann? / Koppen skal ut / Epilog]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/69980663-df66-4d1e-afd0-a8fc950469eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/69980663-df66-4d1e-afd0-a8fc950469eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:04:53</itunes:duration>
+      <pubDate>Sat, 17 Feb 2024 13:02:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
