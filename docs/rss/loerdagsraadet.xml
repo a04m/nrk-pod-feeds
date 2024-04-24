@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 728 siste fra Lørdagsrådet</title>
+    <title>De 729 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 728 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 729 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 20 Apr 2024 11:22:47 +0000</lastBuildDate>
-    <pubDate>Sat, 20 Apr 2024 13:02:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Apr 2024 12:49:55 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Apr 2024 14:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -6337,6 +6337,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/f41a409e-427e-46e8-aad1-3e66011d1485_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:11:44</itunes:duration>
       <pubDate>Sat, 20 Apr 2024 13:02:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Lepperød, Stordalen og flamingonews</title>
+      <description><![CDATA[(ekte) Martin Lepperød om stilletida og sex, tilbakemelding fra (falsk) Petter Stordalen og FLAMINGONEWS]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/c43b4991-9a7a-46e1-958b-8f660bf92c4c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/c43b4991-9a7a-46e1-958b-8f660bf92c4c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:29</itunes:duration>
+      <pubDate>Wed, 24 Apr 2024 14:05:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
