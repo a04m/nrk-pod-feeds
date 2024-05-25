@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 737 siste fra Lørdagsrådet</title>
+    <title>De 738 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 737 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 738 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 22 May 2024 12:46:29 +0000</lastBuildDate>
-    <pubDate>Wed, 22 May 2024 14:04:00 +0200</pubDate>
+    <lastBuildDate>Sat, 25 May 2024 11:24:13 +0000</lastBuildDate>
+    <pubDate>Sat, 25 May 2024 12:58:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -6409,6 +6409,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/b46066b2-c7ee-4ae2-8c4e-badf7c507bc2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:04</itunes:duration>
       <pubDate>Wed, 22 May 2024 14:04:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mikkel Niva / Mia Hundvin / Cecilie Kåss Furuseth</title>
+      <description><![CDATA[Hallois rådgivere / Bli sammen med eksen? / Kan jeg drepe skilpadda mi? / Håpløst forelsket på jobb / En oppmerksomhet til elev / Litt mer om B / Venninne med dårlig ånde / Når nostalgien tar over / Bollepige vil finne sin indre danske / Sommerferie alene / Svigermor på hytta skravler i vei / Koppen skal ut / Epilog]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/39ae8434-1fe3-4c85-b9d4-60487045a53c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/39ae8434-1fe3-4c85-b9d4-60487045a53c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:11:50</itunes:duration>
+      <pubDate>Sat, 25 May 2024 12:58:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
