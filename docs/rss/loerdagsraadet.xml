@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 745 siste fra Lørdagsrådet</title>
+    <title>De 746 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 745 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 746 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 29 Jun 2024 11:24:48 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Jun 2024 13:06:00 +0200</pubDate>
+    <lastBuildDate>Sat, 06 Jul 2024 04:31:56 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -6473,6 +6473,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/f745654e-641d-4c8b-bc87-0b4dfeab3905_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:13:56</itunes:duration>
       <pubDate>Sat, 29 Jun 2024 13:06:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ella Marie Hætta Isaksen / Abu Hussain / Magnus Devold / Kristine Grændsen / Maria Stavang / Markus Neby / Olli Wermskog</title>
+      <description><![CDATA[Tømmer innboksen - del 2: Forlatt vibrator / Forbudt kjærlighet / Gjerrig omgangskrets / Kvitte oss med malerier fra en venn? / Jeg har et kjempecrush, men også en fantastisk kjæreste / Trekantdrama med kjæreste og eksen hans / Reise eller delta i bursdag? / En overall livskrise / To be sassy or not to be sassy / Livskjærlighet, utroskap og fortvilelse  / Strippeklubb i et forhold / Hvordan bli venn med broren sin? / Tilbakemelding fra Sindre som starta året med et dårlig BÆNG!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/740f75c3-bec5-4632-95fa-cce701f77c6d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/740f75c3-bec5-4632-95fa-cce701f77c6d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:14:19</itunes:duration>
+      <pubDate>Sat, 06 Jul 2024 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
