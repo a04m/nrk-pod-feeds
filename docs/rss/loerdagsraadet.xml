@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 765 siste fra Lørdagsrådet</title>
+    <title>De 766 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 765 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 766 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 17 Sep 2024 15:34:45 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Sep 2024 16:35:00 +0200</pubDate>
+    <lastBuildDate>Sat, 21 Sep 2024 11:28:07 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Sep 2024 13:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -6633,6 +6633,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/f4c9c58d-454f-43c2-9c1e-fe5ab86f7904_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:47</itunes:duration>
       <pubDate>Tue, 17 Sep 2024 16:35:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Solveig Kloppen / Ole Soo / Cathrine Frost</title>
+      <description><![CDATA[Tilbakemelding: Føler Jasmine seg god nok nå? / Problemer: Nykter, men nyfrelst... jatte med? / Drømmehus IKKE for salg / Vi spiser godteri / Hvordan kan jeg leve opp til eksen? / Hva er det strengeste man kan si? / God stemning, i gode venners lag / Komplisert datingrelasjon / Temu... slutt med det! / Sees, hvis jeg lever fortsatt / Trafikkjegler i kollektivet]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/39f8105b-1584-4132-8640-ec45d57ac4fd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/39f8105b-1584-4132-8640-ec45d57ac4fd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:12:38</itunes:duration>
+      <pubDate>Sat, 21 Sep 2024 13:02:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
