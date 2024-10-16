@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 771 siste fra Lørdagsrådet</title>
+    <title>De 772 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 771 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 772 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 12 Oct 2024 12:52:00 +0000</lastBuildDate>
-    <pubDate>Sat, 12 Oct 2024 14:11:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Oct 2024 04:39:13 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -6681,6 +6681,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/19a5738e-a21c-44d3-b4d1-6464712d7a01_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:14:28</itunes:duration>
       <pubDate>Sat, 12 Oct 2024 14:11:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mange mailer om ditt og datt</title>
+      <description><![CDATA[Vi tar en god runde i LR-innboksens magiske verden!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/e27f3d51-f4b3-46f5-b346-645853f84430_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/e27f3d51-f4b3-46f5-b346-645853f84430_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:18</itunes:duration>
+      <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
