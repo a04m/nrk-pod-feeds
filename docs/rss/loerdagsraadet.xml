@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 772 siste fra Lørdagsrådet</title>
+    <title>De 773 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 772 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 773 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 16 Oct 2024 04:39:13 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 20 Oct 2024 04:37:21 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Oct 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -6689,6 +6689,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/e27f3d51-f4b3-46f5-b346-645853f84430_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:18</itunes:duration>
       <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Høydepunkter fra 2024 - nr. 5</title>
+      <description><![CDATA[Ronny Brede Aase / Fingern / Marlene Stavrum / Dagny / Niklas Baarli / Kristin Jess Rodin / Silje Nordnes / Odd Nordstoga / Ahmed Mamow]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/1afb663c-0cc9-441a-974b-d2cba4f641ce_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/1afb663c-0cc9-441a-974b-d2cba4f641ce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:45:42</itunes:duration>
+      <pubDate>Sun, 20 Oct 2024 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
