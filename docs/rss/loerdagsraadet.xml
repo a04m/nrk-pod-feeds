@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 775 siste fra Lørdagsrådet</title>
+    <title>De 776 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 775 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 776 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 01 Nov 2024 15:35:55 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Nov 2024 16:10:00 +0100</pubDate>
+    <lastBuildDate>Sat, 02 Nov 2024 13:35:44 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Nov 2024 14:03:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -6713,6 +6713,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/50f08079-3a6f-42bf-a8e0-0911288e66f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>32:29</itunes:duration>
       <pubDate>Fri, 01 Nov 2024 16:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Odd Nordstoga / Amalie Stuve / Vegard Ylvisåker</title>
+      <description><![CDATA[Har Petter beholdt vennene? PROBLEMER: Klimpringen er intens og klein / Hytta har blitt offentlig eiendom? / Bryllupsgjest eller Judas? / Normalisere irritabilitet / Hva skal vi gjøre i julen? / Innpåsliten kollega]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/51604812-a099-40a1-a396-c4d2a31c304e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/51604812-a099-40a1-a396-c4d2a31c304e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:29:27</itunes:duration>
+      <pubDate>Sat, 02 Nov 2024 14:03:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
