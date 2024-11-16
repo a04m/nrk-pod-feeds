@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 778 siste fra Lørdagsrådet</title>
+    <title>De 779 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 778 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 779 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 16 Nov 2024 09:33:39 +0000</lastBuildDate>
-    <pubDate>Sat, 16 Nov 2024 10:20:00 +0100</pubDate>
+    <lastBuildDate>Sat, 16 Nov 2024 12:53:15 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Nov 2024 13:34:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -6737,6 +6737,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/abe5490c-b84b-41fe-9fdb-25f1931ff00e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:37</itunes:duration>
       <pubDate>Sat, 16 Nov 2024 10:20:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Catrin Sagen / Olli Wermskog / Ulrikke Brandstorp</title>
+      <description><![CDATA[Ga Gunn opp? PROBLEMER: Hjelp! Jeg er forelsket i en vegetarianer / Krangling over spillkveld på hytta / Inkludere hverandre sosialt / Dårlig håndtering av sykmelding / Hva gjør jeg med pappa i julen? / Lykkelig uvitende / Jeg vil bli mer rusta / Det ser så lett ut]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/6bb0106a-6609-42fa-8acc-e5c863441360_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/6bb0106a-6609-42fa-8acc-e5c863441360_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:30:36</itunes:duration>
+      <pubDate>Sat, 16 Nov 2024 13:34:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
