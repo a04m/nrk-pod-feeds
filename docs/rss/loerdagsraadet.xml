@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 791 siste fra Lørdagsrådet</title>
+    <title>De 792 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 791 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 792 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 28 Dec 2024 08:34:59 +0000</lastBuildDate>
-    <pubDate>Sat, 28 Dec 2024 09:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 04 Jan 2025 16:37:10 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jan 2025 15:20:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -6841,6 +6841,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/6a91d6ca-d247-4b9c-aadf-7263ea490bdb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:36:43</itunes:duration>
       <pubDate>Sat, 28 Dec 2024 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Maria Stavang / Mathea Josefsen / Are Sende Osen</title>
+      <description><![CDATA[TILBAKEMELDING: Var Klara alene på nyttårsaften? / PROBLEMER: Kontorjobb eller mer eventyr? / Hvor mange datingdetaljer kan man dele? / Sexklubbdrømmen nærmer seg, men fått ny flamme... / Trekkes mot han / Nebbet går  / Alkohol til pynt i stua fra roomie men jeg er avholds / Sykt såra samboer / Ikke barnehagetante]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/f2da7338-8f99-489c-be33-329b0b3938a6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/f2da7338-8f99-489c-be33-329b0b3938a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:23:23</itunes:duration>
+      <pubDate>Sat, 04 Jan 2025 15:20:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
