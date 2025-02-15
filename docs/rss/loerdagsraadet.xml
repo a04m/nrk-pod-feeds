@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 802 siste fra Lørdagsrådet</title>
+    <title>De 803 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 802 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 803 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 12 Feb 2025 17:32:16 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Feb 2025 18:18:00 +0100</pubDate>
+    <lastBuildDate>Sat, 15 Feb 2025 12:48:42 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Feb 2025 13:02:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -6929,6 +6929,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/278ce3f8-b0f4-4099-8789-98acf1891f15_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:15</itunes:duration>
       <pubDate>Wed, 12 Feb 2025 18:18:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Odd Nordstoga / Anne Lindmo / Bjarte Tjøstheim</title>
+      <description><![CDATA[TILBAKEMELDING: Hva skjedde med høyresveipkoppen? / PROBLEMER: Voksenlivets praktiske ansvar / Vi må snakke om badestamp / Om kjærleiken i 20-årene / Gammel mor / Offentlig kyssing / Dårlig s til god s? / Kjærestetur med eksen? / Hvor lenge kan pappa gå uten vann? / Vil ha guttevenner]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/da7434ae-120b-42c8-87c0-0864841b6bf0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/da7434ae-120b-42c8-87c0-0864841b6bf0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:19:14</itunes:duration>
+      <pubDate>Sat, 15 Feb 2025 13:02:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
