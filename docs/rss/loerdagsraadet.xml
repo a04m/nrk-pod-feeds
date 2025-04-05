@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 814 siste fra Lørdagsrådet</title>
+    <title>De 815 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 814 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 815 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 29 Mar 2025 12:53:27 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Mar 2025 13:02:00 +0100</pubDate>
+    <lastBuildDate>Sat, 05 Apr 2025 12:52:01 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Apr 2025 13:50:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -668,8 +668,8 @@ Problemer: SKAL JEG FLYTTE TIL KJÆRESTEN MIN I UTLANDET / USIKKER JULENISSEJENT
       <title>21.12.2013 - Audun Lysbakken, Synnøve Skarbø og Else Kåss Furuseth</title>
       <description><![CDATA[Rådgivere: Audun Lysbakken, Synnøve Skarbø og Else Kåss Furuseth.
 Problemer: Dumpe venninnen? / Kjæresten min har dårlig klesstil / Matrosen og offiseren / Dåpskrøll / Vannkresen / Julekort / Ekstra julegave / Nyttår med The Dark Side.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/nrk_loerdagsraadet_2013-1221-1237_6352322648.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/nrk_loerdagsraadet_2013-1221-1237_6352322648.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/nrk_loerdagsraadet_2013-1221-1237_6352323035.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/nrk_loerdagsraadet_2013-1221-1237_6352323035.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:31:55</itunes:duration>
       <pubDate>Sat, 21 Dec 2013 13:37:00 +0100</pubDate>
     </item>
@@ -677,8 +677,8 @@ Problemer: Dumpe venninnen? / Kjæresten min har dårlig klesstil / Matrosen og 
       <title>21.12.2013 - Audun Lysbakken, Synnøve Skarbø og Else Kåss Furuseth</title>
       <description><![CDATA[Rådgivere: Audun Lysbakken, Synnøve Skarbø og Else Kåss Furuseth.
 Problemer: Dumpe venninnen? / Kjæresten min har dårlig klesstil / Matrosen og offiseren / Dåpskrøll / Vannkresen / Julekort / Ekstra julegave / Nyttår med The Dark Side.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/nrk_loerdagsraadet_2013-1221-1237_6352323035.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/nrk_loerdagsraadet_2013-1221-1237_6352323035.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/nrk_loerdagsraadet_2013-1221-1237_6352322648.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/nrk_loerdagsraadet_2013-1221-1237_6352322648.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:31:55</itunes:duration>
       <pubDate>Sat, 21 Dec 2013 13:37:00 +0100</pubDate>
     </item>
@@ -7025,6 +7025,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/bfc7116a-8c39-4cb7-aa8e-95ef4b09df3c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:17:58</itunes:duration>
       <pubDate>Sat, 29 Mar 2025 13:02:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Lars Berrum / Mia Hundvin / Magnus Devold</title>
+      <description><![CDATA[TILBAKEMELDING: Løypemelding fra Loppemor / PROBLEMER: Alone in Munic / Er det innafor å slå opp med en kjedelig bok? / Hvor lenge er «ikke så lenge»? / Ikke spleis meg! / TV er ikke gøy uten mat / Komplisert med besteforeldre / Forelska i den plystrede brødskjæreren / Fanget av fornuftens fire stygge vegger]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/63a85b08-fc66-4696-a805-565cb12b5762_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/63a85b08-fc66-4696-a805-565cb12b5762_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:15:35</itunes:duration>
+      <pubDate>Sat, 05 Apr 2025 13:50:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
