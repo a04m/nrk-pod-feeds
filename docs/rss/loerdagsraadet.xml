@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 829 siste fra Lørdagsrådet</title>
+    <title>De 830 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 829 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 830 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 28 May 2025 15:36:20 +0000</lastBuildDate>
-    <pubDate>Wed, 28 May 2025 16:55:00 +0200</pubDate>
+    <lastBuildDate>Sat, 31 May 2025 11:27:51 +0000</lastBuildDate>
+    <pubDate>Sat, 31 May 2025 13:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -7145,6 +7145,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/7a90f614-2d30-4f91-8941-af81d5cfdf05_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:42</itunes:duration>
       <pubDate>Wed, 28 May 2025 16:55:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Odd Nordstoga / Caroline Johansen / Nora Svenningsen</title>
+      <description><![CDATA[TILBAKEMELDING: Mister Miss Moss fremdeles ting? / PROBLEMER: Være han som ikke orker reunion? / Drømmemannen flytter / Hvordan skal vi ta praten? / Har man alltid rett til å lene setet sitt helt bakover på fly?  / Hjertet oppfører seg som en glemsk småbarnspappa / Eggdonasjonens kvaler]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/4576336c-837f-4c31-a57e-f714883bb48e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/4576336c-837f-4c31-a57e-f714883bb48e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:08:59</itunes:duration>
+      <pubDate>Sat, 31 May 2025 13:02:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
