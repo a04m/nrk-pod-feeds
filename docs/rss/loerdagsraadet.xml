@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 841 siste fra Lørdagsrådet</title>
+    <title>De 842 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 841 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 842 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 07:31:13 +0000</lastBuildDate>
-    <pubDate>Sat, 05 Jul 2025 09:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Jul 2025 04:50:15 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -7241,6 +7241,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/394f576e-a71e-4645-bdea-bf3f5a305a22_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:44:22</itunes:duration>
       <pubDate>Sat, 05 Jul 2025 09:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Snusmimrikkens (gode) minner</title>
+      <description><![CDATA[En fin tilbakemelding som minner oss på at vi må kose oss i NUET!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/8fe51d69-ab29-4bc2-beae-e0417cbed91e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/8fe51d69-ab29-4bc2-beae-e0417cbed91e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:57</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
