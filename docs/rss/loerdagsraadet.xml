@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 849 siste fra Lørdagsrådet</title>
+    <title>De 850 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 849 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 850 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 08 Aug 2025 10:44:36 +0000</lastBuildDate>
-    <pubDate>Fri, 08 Aug 2025 12:40:00 +0200</pubDate>
+    <lastBuildDate>Sat, 09 Aug 2025 13:00:57 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Aug 2025 14:42:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -7305,6 +7305,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/15e71491-83e5-42f0-89f6-fa11872e5220_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:47</itunes:duration>
       <pubDate>Fri, 08 Aug 2025 12:40:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ronny Brede Aase / Amalie Stuve / Jonis Josef</title>
+      <description><![CDATA[Ebbet drømmen til Simon ut? / PROBLEMER: Høna og Reven / Er eg tyv? / Når er det riktig å «gi opp»? / Må jeg invitere sjefen på fest? / Det var ikke bare den ene gangen / Stabilt og trygt eller... ? / Hjelp! Kjæresten min er en usunn frilans / Utroskap på jobb]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/7a29e086-8118-43d3-a424-5a280acdf867_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/7a29e086-8118-43d3-a424-5a280acdf867_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:20:53</itunes:duration>
+      <pubDate>Sat, 09 Aug 2025 14:42:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
