@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 857 siste fra Lørdagsrådet</title>
+    <title>De 858 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 857 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 858 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 05 Sep 2025 10:37:21 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Sep 2025 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 06 Sep 2025 12:52:26 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Sep 2025 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -7369,6 +7369,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/cf80ec2d-d81d-47b4-80ec-2dd81dd7b4c5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:58</itunes:duration>
       <pubDate>Fri, 05 Sep 2025 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sissel Gran / Galvan Mehidi / Mathea Josefsen</title>
+      <description><![CDATA[Ble det neglelakk, eller ikke? / PROBLEMER: Avslutte forholdet på en verdig måte / På med flørtehansken? / Nærhet og avstand / Sjefen min kler seg ut som meg / Jeg klarer ikke å slutte å tenke på han / Drømmekjæreste blir kollega / Hastesak: Toastmaster i bryllup]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/7930c642-fe32-47fd-b0c6-42fe32b7fdaf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/7930c642-fe32-47fd-b0c6-42fe32b7fdaf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:23:19</itunes:duration>
+      <pubDate>Sat, 06 Sep 2025 14:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
