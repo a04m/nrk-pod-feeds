@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 896 siste fra Lørdagsrådet</title>
+    <title>De 897 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 896 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 897 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 31 Jan 2026 13:13:17 +0000</lastBuildDate>
-    <pubDate>Sat, 31 Jan 2026 12:50:00 +0100</pubDate>
+    <lastBuildDate>Sat, 07 Feb 2026 13:16:09 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Feb 2026 13:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -7681,6 +7681,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/fc05a1ad-ebb7-4c63-85a1-adebb74c636f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:29:23</itunes:duration>
       <pubDate>Sat, 31 Jan 2026 12:50:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Trond-Viggo Torgersen / Hilde Skaar / Espen Abrahamsen</title>
+      <description><![CDATA[TILBAKEMELDING: Ukunstig dating / PROBLEMER: Mange valg, og i hvilken rekkefølge? / Nei, du har ikke absolutt gehør! / Sex i arbeidstiden / Fredsmekleren / Prøve eeeeen gang til? / Hjelp vi skal arrangere reunion! / Litt om pensjon! / KI-spam fra Bestemor]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/d1ac748d-e04c-4ff3-ac74-8de04c3ff327_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/d1ac748d-e04c-4ff3-ac74-8de04c3ff327_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:16:37</itunes:duration>
+      <pubDate>Sat, 07 Feb 2026 13:45:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
