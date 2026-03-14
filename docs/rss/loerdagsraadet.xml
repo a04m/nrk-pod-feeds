@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 906 siste fra Lørdagsrådet</title>
+    <title>De 907 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 906 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 907 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 16:06:09 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Mar 2026 16:09:00 +0100</pubDate>
+    <lastBuildDate>Sat, 14 Mar 2026 13:17:24 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Mar 2026 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -7761,6 +7761,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/cfab715a-aa54-4465-ab71-5aaa5414657d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:04</itunes:duration>
       <pubDate>Wed, 11 Mar 2026 16:09:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Lars Berrum / Ronny Brede Aase / Anna Nor Sørensen</title>
+      <description><![CDATA[TILBAKEMELDING: Gjelder 3-sekundersregelen? / PROBLEMER: Må jeg droppe å gifte meg siden foreldrene mine ikke er venner? / Hockeyvakuumet / Balladen om en kanskje utro mann / Jeg vil gjerne drikke, men ikke hele tiden! / Bursdagen i Tyskland / Djevelen i andres livshistorie / Er dugnadsånden død? / Skal jeg leve med en E på masteren?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/2967a3c1-674e-49d2-a7a3-c1674ee9d26e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/2967a3c1-674e-49d2-a7a3-c1674ee9d26e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:22:37</itunes:duration>
+      <pubDate>Sat, 14 Mar 2026 13:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
