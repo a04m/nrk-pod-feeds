@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 908 siste fra Lørdagsrådet</title>
+    <title>De 909 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 908 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 909 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 13:46:05 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Mar 2026 14:15:00 +0100</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2026 13:56:28 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2026 14:05:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -7777,6 +7777,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ec747a5f-2a81-450b-b47a-5f2a81750bed_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:48</itunes:duration>
       <pubDate>Thu, 19 Mar 2026 14:15:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mia Hundvin / Ole Henry Snildalsli / Martha Leivestad</title>
+      <description><![CDATA[Tlibakemelding: Ja, er Kari en flørtedrittsekk? PROBLEMER: Hjelp, har jeg blitt tysk spion? / Hvordan skal forelskelse føles? / AI avslørte kjæresten min – bør jeg stole på sangen eller henne? / Flytte inn i drømmekollektivet - eller unngå risken? / Svarer aldri på melding / Sleten datter?! / Skjønnheten og samboeren]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/19e2cab7-4185-4150-a2ca-b74185c150bb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/19e2cab7-4185-4150-a2ca-b74185c150bb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:15:52</itunes:duration>
+      <pubDate>Sat, 21 Mar 2026 14:05:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
