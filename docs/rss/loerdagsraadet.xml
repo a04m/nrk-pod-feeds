@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 909 siste fra Lørdagsrådet</title>
+    <title>De 910 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 909 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 910 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 13:56:28 +0000</lastBuildDate>
-    <pubDate>Sat, 21 Mar 2026 14:05:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2026 15:43:45 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 16:35:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -7785,6 +7785,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/19e2cab7-4185-4150-a2ca-b74185c150bb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:15:52</itunes:duration>
       <pubDate>Sat, 21 Mar 2026 14:05:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Si det. Ikke vent på det perfekte øyeblikket.</title>
+      <description><![CDATA[Johannes ventet for lenge! Vi har fått flere råd til Analoge Anna - og tenåringer kan jobbe!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/d4bd9f4d-825d-4d33-bd9f-4d825dfd333d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/d4bd9f4d-825d-4d33-bd9f-4d825dfd333d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:37</itunes:duration>
+      <pubDate>Thu, 26 Mar 2026 16:35:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
