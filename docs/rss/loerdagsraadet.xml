@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 911 siste fra Lørdagsrådet</title>
+    <title>De 912 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 911 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 912 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 14:53:55 +0000</lastBuildDate>
-    <pubDate>Sat, 28 Mar 2026 14:30:00 +0100</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2026 07:20:54 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2026 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -7801,6 +7801,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/9fc85a04-a800-4660-885a-04a800f660d6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:23:47</itunes:duration>
       <pubDate>Sat, 28 Mar 2026 14:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Høydepunkter fra 2025 - nr. 5</title>
+      <description><![CDATA[Rådgivere er: Lars Berrum / Mia Hundvin / Magnus Devold / Hilde Skaar / Finger'n / Solveig Kloppen / Linnéa Myhre / Einar Tørnquist / Adelina Ibishi]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/1573c103-08a9-4ba9-b3c1-0308a99ba9fd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/1573c103-08a9-4ba9-b3c1-0308a99ba9fd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:33:08</itunes:duration>
+      <pubDate>Sat, 04 Apr 2026 09:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
