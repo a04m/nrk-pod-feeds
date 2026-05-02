@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 919 siste fra Lørdagsrådet</title>
+    <title>De 920 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 919 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 920 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 16:56:43 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Apr 2026 16:40:00 +0200</pubDate>
+    <lastBuildDate>Sat, 02 May 2026 12:01:47 +0000</lastBuildDate>
+    <pubDate>Sat, 02 May 2026 13:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -7865,6 +7865,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/12a503a2-f749-42d7-a503-a2f74942d7df_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:23</itunes:duration>
       <pubDate>Wed, 29 Apr 2026 16:40:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ingrid Gjessing Linhave / Thomas Gullestad / Nora Svenningsen</title>
+      <description><![CDATA[TILBAKEMELDING: Fant Anna ut hvordan hun kan hjelpe kjæresten? / PROBLEMER: Vil være mer med kameraten min / Røde flagg, men ekte følelser / Fin kjæreste, dårlig trøster / Skaff «Petrine» et liv / Kumøkk og verdens søteste nabo / Arbeidsledig og bitter / Kranglete svigers / Gamle minner, minner meg på hvem jeg var]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/14da616c-a2e4-466c-9a61-6ca2e4666c58_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/14da616c-a2e4-466c-9a61-6ca2e4666c58_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:06:09</itunes:duration>
+      <pubDate>Sat, 02 May 2026 13:25:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
