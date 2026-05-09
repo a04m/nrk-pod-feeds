@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 921 siste fra Lørdagsrådet</title>
+    <title>De 922 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 921 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 922 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 08 May 2026 14:18:32 +0000</lastBuildDate>
-    <pubDate>Fri, 08 May 2026 14:50:00 +0200</pubDate>
+    <lastBuildDate>Sat, 09 May 2026 13:54:51 +0000</lastBuildDate>
+    <pubDate>Sat, 09 May 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -7881,6 +7881,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ad2b8e54-50db-4ae5-ab8e-5450db0ae57c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>20:56</itunes:duration>
       <pubDate>Fri, 08 May 2026 14:50:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Harald Rønneberg / Tara Lina Shahin / Henrik Farley</title>
+      <description><![CDATA[Tilbakemelding fra Bøgesen Møbler / PROBLEMER: En lang biltur truer / Overraskelsesfesten ingen har bedt om / Rettighetsmareritt fra 2008 / Livet, på stedet hvil / Utveksling med eks-flørtens kompiser? / Når festens midtpunkt blir for stort / Jeg sier ja til alt / Jeg trenger eksamens-opp-piffing / Cupfinale eller bursdag? / Må ein alltid dra på jobb når ein kan?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/a93ac7f7-dafb-4c50-bac7-f7dafbfc5052_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/a93ac7f7-dafb-4c50-bac7-f7dafbfc5052_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:07:42</itunes:duration>
+      <pubDate>Sat, 09 May 2026 14:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
