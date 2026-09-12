@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 954 siste fra Lørdagsrådet</title>
+    <title>De 955 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 954 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 955 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 14:40:11 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Sep 2026 16:02:00 +0200</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:10:58 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2026 13:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -8145,6 +8145,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/16fd1a1c-efde-403c-bd1a-1cefde303c60_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:07</itunes:duration>
       <pubDate>Wed, 09 Sep 2026 16:02:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Solveig Kloppen / Are Sende Osen / Nora Svenningsen</title>
+      <description><![CDATA[TILBAKEMELDING: Har Hermine tatt initiativ? / PROBLEMER: Feire antibryllupsdag? / Er jeg for opptatt av titler?  / Vil ut i vannet... på en verdig måte / Lat trenger motivasjon / Han er min beste venn, men skal vi dele livet? / Godteriproblemet / Jeg søker en gjeng / Pappa røff / Spesielle vaner på kontoret]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/638467fe-379a-4620-8467-fe379a262070_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/638467fe-379a-4620-8467-fe379a262070_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:14:25</itunes:duration>
+      <pubDate>Sat, 12 Sep 2026 13:02:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
