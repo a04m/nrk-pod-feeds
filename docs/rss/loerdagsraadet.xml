@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 962 siste fra Lørdagsrådet</title>
+    <title>De 963 siste fra Lørdagsrådet</title>
     <link>https://a04m.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 962 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 963 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 09 Oct 2026 16:14:47 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:38:56 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
     <item>
@@ -8209,6 +8209,14 @@ Hva gjør Rita i rullestol med de kjipe bussjåførene?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/cbae8a48-6b9a-4a7d-ae8a-486b9a4a7d62_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:48</itunes:duration>
       <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Adelina Ibishi / Jon Martin Henriksen / Janne Rønningen</title>
+      <description><![CDATA[TILBAKEMELDING: Er Tante Skrue fremdeles rik? / PROBLEMER: Nygifte på hvert sitt soverom / Familiebursdag i skilsmisseland / Jeg kan ikke pusse opp / Vi har gjort det slutt med avstand / Hvordan sjekker man opp en venn? / Vanskelig kollega i min første voksenjobb / Må jeg planlegge brudens bryllup? / Kan jeg hevne meg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/badb0ae5-50ce-4436-9b0a-e550cec436f0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/badb0ae5-50ce-4436-9b0a-e550cec436f0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:26:47</itunes:duration>
+      <pubDate>Sat, 10 Oct 2026 13:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
